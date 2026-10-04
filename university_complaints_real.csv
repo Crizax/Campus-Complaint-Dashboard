@@ -1,0 +1,1006 @@
+Timestamp,Campus,Department,Genre,Reports,Severity,Status,Responsible_Department,Age,Gpa,Year,Gender,Date,Month,Day of Week,Hour
+2023-11-25 16:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Computer lab systems outdated,Low,Open,IT Department,21,0.01,2,F,2023-11-25,November,Saturday,16
+2023-12-01 14:00:00,South Campus,Business,Academic Support and Resources,Limited office hours for instructors,Medium,Resolved,Academic Affairs,23,2.51,1,F,2023-12-01,December,Friday,14
+2024-01-21 09:00:00,South Campus,Sciences,Administrative and Registration,Limited recreational facilities,Medium,Resolved,Student Services,18,1.33,1,F,2024-01-21,January,Sunday,9
+2024-03-14 11:00:00,Main Campus,Engineering,Student Services and Facilities,Email and portal access problems,Low,Open,IT Department,19,2.9,2,F,2024-03-14,March,Thursday,11
+2023-09-10 13:00:00,North Campus,Engineering,Academic Support and Resources,Inadequate access to lab resources,Low,In Progress,Academic Affairs,21,2.24,1,F,2023-09-10,September,Sunday,13
+2023-11-15 23:00:00,South Campus,Liberal Arts,Student Services and Facilities,Long wait times for health services,Critical,Closed,Health Services,21,2.24,1,F,2023-11-15,November,Wednesday,23
+2023-11-08 22:00:00,Main Campus,Sciences,Technology and IT Support,Interlibrary loan process slow,Medium,Resolved,Library Services,17,0.8,4,M,2023-11-08,November,Wednesday,22
+2024-02-28 09:00:00,Main Campus,Computer Science,Library and Learning Resources,Email and portal access problems,Low,Resolved,IT Department,16,1.89,2,F,2024-02-28,February,Wednesday,9
+2023-11-02 23:00:00,Main Campus,Business,Administrative and Registration,Database access limited,Medium,Closed,Library Services,22,0.8,5,M,2023-11-02,November,Thursday,23
+2023-11-13 02:00:00,South Campus,Business,Library and Learning Resources,Library hours insufficient,High,Resolved,Library Services,17,2.76,2,F,2023-11-13,November,Monday,2
+2023-08-31 00:00:00,Main Campus,Business,Student Services and Facilities,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,21,2.52,3,M,2023-08-31,August,Thursday,0
+2023-09-16 17:00:00,Main Campus,Engineering,Administrative and Registration,Struggling with course content difficulty,Low,Resolved,Academic Affairs,21,4.14,5,M,2023-09-16,September,Saturday,17
+2024-05-10 05:00:00,North Campus,Computer Science,Academic Support and Resources,Mental health support inadequate,Critical,Resolved,Health Services,22,4.62,1,F,2024-05-10,May,Friday,5
+2024-05-08 18:00:00,Main Campus,Liberal Arts,Health and Wellness,Computer lab systems outdated,Low,Resolved,IT Department,18,3.75,5,M,2024-05-08,May,Wednesday,18
+2023-12-12 23:00:00,Main Campus,Computer Science,Library and Learning Resources,Counseling services overcrowded,Low,Resolved,Health Services,20,0.75,3,M,2023-12-12,December,Tuesday,23
+2024-03-19 12:00:00,North Campus,Computer Science,Health and Wellness,Computer lab systems outdated,Low,In Progress,IT Department,21,1.56,5,M,2024-03-19,March,Tuesday,12
+2023-12-25 11:00:00,Main Campus,Business,Student Services and Facilities,Admission process was unclear,Medium,Closed,Registrar Office,19,3.2,5,M,2023-12-25,December,Monday,11
+2024-01-27 06:00:00,North Campus,Liberal Arts,Health and Wellness,Email and portal access problems,Low,Resolved,IT Department,16,4.79,3,M,2024-01-27,January,Saturday,6
+2023-10-15 13:00:00,Main Campus,Engineering,Academic Support and Resources,Mental health support inadequate,Critical,Open,Health Services,24,2.43,1,F,2023-10-15,October,Sunday,13
+2023-10-04 02:00:00,South Campus,Sciences,Library and Learning Resources,Limited office hours for instructors,Medium,Resolved,Academic Affairs,21,4.7,2,F,2023-10-04,October,Wednesday,2
+2024-04-09 06:00:00,South Campus,Sciences,Administrative and Registration,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,16,3.13,3,M,2024-04-09,April,Tuesday,6
+2024-02-16 03:00:00,Main Campus,Sciences,Administrative and Registration,Insufficient parking on campus,High,Open,Student Services,19,2.33,1,F,2024-02-16,February,Friday,3
+2023-09-23 01:00:00,Main Campus,Engineering,Health and Wellness,Need for better academic counseling services,Low,Resolved,Academic Affairs,26,3.2,1,F,2023-09-23,September,Saturday,1
+2024-01-14 11:00:00,North Campus,Liberal Arts,Health and Wellness,Struggling with course content difficulty,Low,Resolved,Academic Affairs,20,3.17,1,F,2024-01-14,January,Sunday,11
+2024-02-16 09:00:00,Main Campus,Business,Academic Support and Resources,Poor quality of online course materials,Low,Resolved,Academic Affairs,22,2.44,3,M,2024-02-16,February,Friday,9
+2024-04-30 15:00:00,North Campus,Engineering,Health and Wellness,Limited office hours for instructors,Medium,In Progress,Academic Affairs,23,2.71,3,M,2024-04-30,April,Tuesday,15
+2024-01-21 09:00:00,North Campus,Sciences,Student Services and Facilities,Wi-Fi connection unstable,Low,Resolved,IT Department,22,1.34,3,M,2024-01-21,January,Sunday,9
+2023-11-11 05:00:00,North Campus,Engineering,Technology and IT Support,Campus facilities in poor condition,Low,Resolved,Student Services,22,1.9,5,M,2023-11-11,November,Saturday,5
+2024-02-16 02:00:00,Main Campus,Computer Science,Technology and IT Support,Email and portal access problems,Low,Open,IT Department,19,3.96,2,F,2024-02-16,February,Friday,2
+2023-12-02 19:00:00,Main Campus,Business,Technology and IT Support,Wi-Fi connection unstable,Low,Closed,IT Department,20,1.51,1,F,2023-12-02,December,Saturday,19
+2024-04-14 03:00:00,North Campus,Engineering,Health and Wellness,Library hours insufficient,High,Resolved,Library Services,24,1.68,4,M,2024-04-14,April,Sunday,3
+2024-01-11 04:00:00,South Campus,Liberal Arts,Administrative and Registration,Study area conditions poor,Low,In Progress,Library Services,24,1.21,4,M,2024-01-11,January,Thursday,4
+2024-01-25 16:00:00,North Campus,Sciences,Academic Support and Resources,Need for more study spaces,Low,Resolved,Student Services,17,1.27,4,M,2024-01-25,January,Thursday,16
+2024-04-10 05:00:00,South Campus,Computer Science,Technology and IT Support,Delayed transcript processing,Medium,Resolved,Registrar Office,25,1.07,2,F,2024-04-10,April,Wednesday,5
+2024-04-12 08:00:00,South Campus,Sciences,Student Services and Facilities,Difficulty finding required course materials,Low,In Progress,Academic Affairs,23,2.71,4,M,2024-04-12,April,Friday,8
+2024-02-04 22:00:00,Main Campus,Engineering,Administrative and Registration,Struggling with course content difficulty,Low,In Progress,Academic Affairs,22,2.07,5,M,2024-02-04,February,Sunday,22
+2023-11-30 11:00:00,North Campus,Business,Student Services and Facilities,Limited book availability,Medium,Open,Library Services,21,2.23,4,M,2023-11-30,November,Thursday,11
+2023-10-03 01:00:00,South Campus,Computer Science,Academic Support and Resources,Struggling with course content difficulty,Low,In Progress,Academic Affairs,21,2.75,1,F,2023-10-03,October,Tuesday,1
+2023-12-12 12:00:00,Main Campus,Liberal Arts,Health and Wellness,Insufficient parking on campus,High,Resolved,Student Services,19,2.11,5,M,2023-12-12,December,Tuesday,12
+2024-01-14 02:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Delayed transcript processing,Medium,Resolved,Registrar Office,21,2.66,2,F,2024-01-14,January,Sunday,2
+2024-01-08 11:00:00,North Campus,Engineering,Technology and IT Support,Email and portal access problems,Low,In Progress,IT Department,19,2.33,4,M,2024-01-08,January,Monday,11
+2024-01-27 01:00:00,Main Campus,Liberal Arts,Student Services and Facilities,Inadequate access to lab resources,Low,In Progress,Academic Affairs,16,1.93,5,M,2024-01-27,January,Saturday,1
+2024-02-07 18:00:00,Main Campus,Business,Academic Support and Resources,Limited book availability,Medium,In Progress,Library Services,19,1.88,2,F,2024-02-07,February,Wednesday,18
+2024-01-19 05:00:00,South Campus,Business,Administrative and Registration,Insufficient tutoring and academic support,High,Closed,Academic Affairs,19,4.82,1,F,2024-01-19,January,Friday,5
+2023-10-13 04:00:00,North Campus,Engineering,Academic Support and Resources,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,22,1.96,5,M,2023-10-13,October,Friday,4
+2023-12-26 05:00:00,North Campus,Computer Science,Student Services and Facilities,Wi-Fi connection unstable,Low,Closed,IT Department,16,3.98,2,F,2023-12-26,December,Tuesday,5
+2023-12-04 08:00:00,North Campus,Computer Science,Technology and IT Support,Library hours insufficient,High,Resolved,Library Services,20,1.52,3,M,2023-12-04,December,Monday,8
+2024-03-22 08:00:00,Main Campus,Engineering,Academic Support and Resources,Gym and sports facility issues,High,In Progress,Student Services,16,3.26,1,F,2024-03-22,March,Friday,8
+2023-09-14 07:00:00,North Campus,Sciences,Technology and IT Support,Cafeteria food quality concerns,Low,Resolved,Student Services,21,3.92,2,F,2023-09-14,September,Thursday,7
+2023-09-20 10:00:00,South Campus,Computer Science,Academic Support and Resources,Database access limited,Medium,Resolved,Library Services,16,1.84,1,F,2023-09-20,September,Wednesday,10
+2023-11-30 20:00:00,North Campus,Engineering,Student Services and Facilities,Poor quality of online course materials,Low,Resolved,Academic Affairs,23,0.49,5,M,2023-11-30,November,Thursday,20
+2023-11-26 06:00:00,South Campus,Business,Technology and IT Support,Limited office hours for instructors,Medium,Closed,Academic Affairs,19,2.06,4,M,2023-11-26,November,Sunday,6
+2023-09-21 14:00:00,North Campus,Computer Science,Student Services and Facilities,Email and portal access problems,Low,Open,IT Department,19,1.79,2,F,2023-09-21,September,Thursday,14
+2024-01-12 07:00:00,South Campus,Engineering,Academic Support and Resources,Study area conditions poor,Low,Open,Library Services,23,1.12,1,F,2024-01-12,January,Friday,7
+2024-02-24 04:00:00,South Campus,Liberal Arts,Student Services and Facilities,Online learning platform issues,High,Resolved,IT Department,22,2.7,2,F,2024-02-24,February,Saturday,4
+2023-10-03 12:00:00,Main Campus,Sciences,Student Services and Facilities,Need for more study spaces,Low,In Progress,Student Services,23,2.74,2,F,2023-10-03,October,Tuesday,12
+2023-11-20 20:00:00,North Campus,Sciences,Technology and IT Support,Insufficient parking on campus,High,In Progress,Student Services,21,4.11,2,F,2023-11-20,November,Monday,20
+2024-02-17 01:00:00,Main Campus,Business,Student Services and Facilities,VPN connectivity issues,High,Open,IT Department,23,1.83,2,F,2024-02-17,February,Saturday,1
+2023-09-09 01:00:00,Main Campus,Engineering,Technology and IT Support,Campus safety concerns,Critical,Open,Health Services,26,2.7,1,F,2023-09-09,September,Saturday,1
+2023-09-08 14:00:00,Main Campus,Business,Library and Learning Resources,Confusion with degree requirements,Low,Resolved,Registrar Office,16,0.97,4,M,2023-09-08,September,Friday,14
+2023-10-30 21:00:00,Main Campus,Business,Administrative and Registration,Need for more study spaces,Low,Open,Student Services,18,0.58,1,F,2023-10-30,October,Monday,21
+2023-09-25 11:00:00,South Campus,Business,Library and Learning Resources,Inadequate access to lab resources,Low,Resolved,Academic Affairs,20,0.18,1,F,2023-09-25,September,Monday,11
+2024-04-04 23:00:00,South Campus,Sciences,Student Services and Facilities,Registration deadline conflicts,Low,Resolved,Registrar Office,19,2.3,4,M,2024-04-04,April,Thursday,23
+2023-12-14 06:00:00,Main Campus,Computer Science,Library and Learning Resources,VPN connectivity issues,High,Resolved,IT Department,16,2.53,1,F,2023-12-14,December,Thursday,6
+2023-11-20 05:00:00,North Campus,Business,Academic Support and Resources,Campus safety concerns,Critical,Open,Health Services,19,1.89,3,M,2023-11-20,November,Monday,5
+2023-09-13 20:00:00,South Campus,Sciences,Health and Wellness,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,19,2.13,2,F,2023-09-13,September,Wednesday,20
+2023-11-09 12:00:00,North Campus,Computer Science,Administrative and Registration,Gym and sports facility issues,High,Open,Student Services,20,3.68,1,F,2023-11-09,November,Thursday,12
+2024-02-16 15:00:00,Main Campus,Liberal Arts,Administrative and Registration,Long wait times for health services,Critical,Resolved,Health Services,22,2.14,1,F,2024-02-16,February,Friday,15
+2024-01-13 23:00:00,North Campus,Computer Science,Health and Wellness,Registration deadline conflicts,Low,Resolved,Registrar Office,17,2.86,1,F,2024-01-13,January,Saturday,23
+2023-08-15 01:00:00,South Campus,Liberal Arts,Technology and IT Support,Limited office hours for instructors,Medium,Resolved,Academic Affairs,23,3.03,2,F,2023-08-15,August,Tuesday,1
+2023-10-07 18:00:00,Main Campus,Sciences,Academic Support and Resources,Medical services not open enough hours,Critical,Resolved,Health Services,22,3.1,1,F,2023-10-07,October,Saturday,18
+2023-12-02 16:00:00,North Campus,Engineering,Academic Support and Resources,Financial aid processing delays,Low,Resolved,Registrar Office,25,1.86,2,F,2023-12-02,December,Saturday,16
+2024-05-06 00:00:00,North Campus,Computer Science,Technology and IT Support,Cafeteria food quality concerns,Low,In Progress,Student Services,22,1.89,5,M,2024-05-06,May,Monday,0
+2024-04-26 14:00:00,Main Campus,Computer Science,Health and Wellness,Database access limited,Medium,Resolved,Library Services,16,2.53,5,M,2024-04-26,April,Friday,14
+2023-10-29 01:00:00,South Campus,Sciences,Library and Learning Resources,Limited recreational facilities,Medium,Resolved,Student Services,26,1.87,4,M,2023-10-29,October,Sunday,1
+2024-05-04 10:00:00,North Campus,Business,Technology and IT Support,Need for better academic counseling services,Low,In Progress,Academic Affairs,18,2.38,2,F,2024-05-04,May,Saturday,10
+2023-12-24 20:00:00,South Campus,Engineering,Library and Learning Resources,Course registration system difficulties,Low,Resolved,Registrar Office,20,3.2,1,F,2023-12-24,December,Sunday,20
+2023-12-13 17:00:00,Main Campus,Computer Science,Technology and IT Support,Study area conditions poor,Low,Closed,Library Services,20,2.63,2,F,2023-12-13,December,Wednesday,17
+2023-12-05 12:00:00,South Campus,Liberal Arts,Student Services and Facilities,Wi-Fi connection unstable,Low,Closed,IT Department,19,2.89,3,M,2023-12-05,December,Tuesday,12
+2024-04-10 21:00:00,South Campus,Business,Academic Support and Resources,Limited book availability,Medium,Resolved,Library Services,27,4.53,2,F,2024-04-10,April,Wednesday,21
+2024-04-17 09:00:00,North Campus,Computer Science,Technology and IT Support,Registration deadline conflicts,Low,Resolved,Registrar Office,21,0.79,3,M,2024-04-17,April,Wednesday,9
+2024-02-12 17:00:00,South Campus,Sciences,Health and Wellness,Difficulty finding required course materials,Low,In Progress,Academic Affairs,18,3.24,5,M,2024-02-12,February,Monday,17
+2024-01-30 22:00:00,Main Campus,Engineering,Academic Support and Resources,Interlibrary loan process slow,Medium,Closed,Library Services,19,0.27,3,M,2024-01-30,January,Tuesday,22
+2024-02-07 22:00:00,Main Campus,Engineering,Student Services and Facilities,Need for better academic counseling services,Low,Open,Academic Affairs,20,2.96,2,F,2024-02-07,February,Wednesday,22
+2024-03-27 00:00:00,North Campus,Business,Library and Learning Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,24,1.11,4,M,2024-03-27,March,Wednesday,0
+2023-12-31 08:00:00,Main Campus,Liberal Arts,Administrative and Registration,Counseling services overcrowded,Low,In Progress,Health Services,19,1.93,5,M,2023-12-31,December,Sunday,8
+2023-11-24 03:00:00,North Campus,Liberal Arts,Administrative and Registration,Counseling services overcrowded,Low,In Progress,Health Services,27,2.8,2,F,2023-11-24,November,Friday,3
+2023-11-16 17:00:00,Main Campus,Computer Science,Administrative and Registration,Difficulty finding required course materials,Low,Resolved,Academic Affairs,24,2.9,5,M,2023-11-16,November,Thursday,17
+2023-11-04 15:00:00,Main Campus,Engineering,Academic Support and Resources,Need for better academic counseling services,Low,Closed,Academic Affairs,26,1.62,4,M,2023-11-04,November,Saturday,15
+2023-09-16 15:00:00,North Campus,Business,Student Services and Facilities,Library hours insufficient,High,Open,Library Services,19,0.71,2,F,2023-09-16,September,Saturday,15
+2024-04-07 02:00:00,South Campus,Business,Student Services and Facilities,Need for better academic counseling services,Low,Resolved,Academic Affairs,20,1.97,1,F,2024-04-07,April,Sunday,2
+2024-05-03 23:00:00,South Campus,Liberal Arts,Academic Support and Resources,Database access limited,Medium,Open,Library Services,27,4.86,1,F,2024-05-03,May,Friday,23
+2024-02-01 20:00:00,South Campus,Computer Science,Technology and IT Support,Poor quality of online course materials,Low,In Progress,Academic Affairs,19,2.38,3,M,2024-02-01,February,Thursday,20
+2023-09-24 04:00:00,Main Campus,Business,Administrative and Registration,Study area conditions poor,Low,Resolved,Library Services,16,0.91,2,F,2023-09-24,September,Sunday,4
+2023-11-29 07:00:00,Main Campus,Engineering,Technology and IT Support,Interlibrary loan process slow,Medium,Resolved,Library Services,20,3.75,3,M,2023-11-29,November,Wednesday,7
+2023-09-20 05:00:00,South Campus,Sciences,Library and Learning Resources,Campus safety concerns,Critical,In Progress,Health Services,19,2.83,1,F,2023-09-20,September,Wednesday,5
+2024-03-03 05:00:00,Main Campus,Engineering,Academic Support and Resources,Technical support response time slow,Medium,In Progress,IT Department,20,2.06,1,F,2024-03-03,March,Sunday,5
+2023-11-01 03:00:00,North Campus,Business,Health and Wellness,Computer lab systems outdated,Low,Open,IT Department,23,2.07,3,M,2023-11-01,November,Wednesday,3
+2024-01-17 01:00:00,Main Campus,Engineering,Administrative and Registration,Need for more study spaces,Low,In Progress,Student Services,17,3.49,1,F,2024-01-17,January,Wednesday,1
+2024-01-26 14:00:00,North Campus,Engineering,Library and Learning Resources,Study area conditions poor,Low,Closed,Library Services,19,2.6,3,M,2024-01-26,January,Friday,14
+2023-09-03 07:00:00,North Campus,Computer Science,Academic Support and Resources,Counseling services overcrowded,Low,Closed,Health Services,26,0.14,4,M,2023-09-03,September,Sunday,7
+2024-05-01 20:00:00,North Campus,Computer Science,Health and Wellness,Campus safety concerns,Critical,In Progress,Health Services,20,4.44,4,M,2024-05-01,May,Wednesday,20
+2023-09-25 13:00:00,North Campus,Computer Science,Health and Wellness,Gym and sports facility issues,High,Resolved,Student Services,19,1.72,3,M,2023-09-25,September,Monday,13
+2023-09-20 15:00:00,North Campus,Sciences,Student Services and Facilities,Study area conditions poor,Low,Closed,Library Services,17,4.97,3,M,2023-09-20,September,Wednesday,15
+2024-04-13 20:00:00,South Campus,Sciences,Academic Support and Resources,Insufficient tutoring and academic support,High,Open,Academic Affairs,23,2.46,2,F,2024-04-13,April,Saturday,20
+2023-10-22 02:00:00,Main Campus,Computer Science,Health and Wellness,Registration deadline conflicts,Low,Resolved,Registrar Office,18,1.18,2,F,2023-10-22,October,Sunday,2
+2023-09-04 02:00:00,Main Campus,Sciences,Technology and IT Support,Insufficient tutoring and academic support,High,Closed,Academic Affairs,16,1.94,2,F,2023-09-04,September,Monday,2
+2024-05-01 00:00:00,North Campus,Computer Science,Student Services and Facilities,Interlibrary loan process slow,Medium,Open,Library Services,21,3.77,1,F,2024-05-01,May,Wednesday,0
+2024-04-29 02:00:00,North Campus,Engineering,Health and Wellness,Medical services not open enough hours,Critical,In Progress,Health Services,18,2.55,2,F,2024-04-29,April,Monday,2
+2023-12-12 07:00:00,Main Campus,Engineering,Administrative and Registration,Course registration system difficulties,Low,Closed,Registrar Office,21,1.7,5,M,2023-12-12,December,Tuesday,7
+2024-02-27 22:00:00,Main Campus,Engineering,Technology and IT Support,Cafeteria food quality concerns,Low,Resolved,Student Services,22,1.94,2,F,2024-02-27,February,Tuesday,22
+2024-01-11 18:00:00,North Campus,Sciences,Academic Support and Resources,Registration deadline conflicts,Low,Open,Registrar Office,25,0.66,4,M,2024-01-11,January,Thursday,18
+2023-09-16 15:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Medical services not open enough hours,Critical,In Progress,Health Services,23,3.67,5,M,2023-09-16,September,Saturday,15
+2023-11-14 17:00:00,North Campus,Liberal Arts,Student Services and Facilities,Admission process was unclear,Medium,Resolved,Registrar Office,19,4.59,4,M,2023-11-14,November,Tuesday,17
+2023-08-26 08:00:00,South Campus,Business,Student Services and Facilities,Cafeteria food quality concerns,Low,Resolved,Student Services,24,2.23,5,M,2023-08-26,August,Saturday,8
+2023-10-25 13:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Campus safety concerns,Critical,Resolved,Health Services,18,0.38,1,F,2023-10-25,October,Wednesday,13
+2023-09-03 11:00:00,North Campus,Sciences,Academic Support and Resources,Limited recreational facilities,Medium,Closed,Student Services,22,1.26,1,F,2023-09-03,September,Sunday,11
+2023-11-05 21:00:00,Main Campus,Sciences,Administrative and Registration,Technical support response time slow,Medium,In Progress,IT Department,24,2.26,2,F,2023-11-05,November,Sunday,21
+2023-10-03 08:00:00,Main Campus,Sciences,Student Services and Facilities,Limited office hours for instructors,Medium,Resolved,Academic Affairs,17,0.87,4,M,2023-10-03,October,Tuesday,8
+2024-03-31 11:00:00,South Campus,Engineering,Technology and IT Support,Technical support response time slow,Medium,Resolved,IT Department,19,1.79,5,M,2024-03-31,March,Sunday,11
+2024-04-25 20:00:00,North Campus,Engineering,Academic Support and Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,17,2.12,5,M,2024-04-25,April,Thursday,20
+2023-09-06 01:00:00,South Campus,Business,Student Services and Facilities,Gym and sports facility issues,High,In Progress,Student Services,21,1.8,4,M,2023-09-06,September,Wednesday,1
+2024-05-13 19:00:00,South Campus,Business,Student Services and Facilities,Limited recreational facilities,Medium,Closed,Student Services,17,1.41,2,F,2024-05-13,May,Monday,19
+2024-02-20 12:00:00,South Campus,Engineering,Academic Support and Resources,VPN connectivity issues,High,Resolved,IT Department,21,2.31,2,F,2024-02-20,February,Tuesday,12
+2023-12-03 00:00:00,North Campus,Sciences,Academic Support and Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,19,2.57,1,F,2023-12-03,December,Sunday,0
+2023-09-04 12:00:00,South Campus,Liberal Arts,Administrative and Registration,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,19,1.28,5,M,2023-09-04,September,Monday,12
+2024-05-12 22:00:00,North Campus,Computer Science,Administrative and Registration,Insufficient tutoring and academic support,High,In Progress,Academic Affairs,22,3.17,1,F,2024-05-12,May,Sunday,22
+2024-02-28 01:00:00,Main Campus,Business,Administrative and Registration,Struggling with course content difficulty,Low,Resolved,Academic Affairs,17,3.39,5,M,2024-02-28,February,Wednesday,1
+2023-08-29 22:00:00,Main Campus,Sciences,Administrative and Registration,Counseling services overcrowded,Low,Resolved,Health Services,22,1.86,1,F,2023-08-29,August,Tuesday,22
+2023-09-06 08:00:00,North Campus,Business,Health and Wellness,Study area conditions poor,Low,Resolved,Library Services,23,2.76,2,F,2023-09-06,September,Wednesday,8
+2024-01-26 21:00:00,Main Campus,Computer Science,Academic Support and Resources,Struggling with course content difficulty,Low,Closed,Academic Affairs,16,3.76,1,F,2024-01-26,January,Friday,21
+2024-05-08 08:00:00,South Campus,Sciences,Administrative and Registration,Financial aid processing delays,Low,Resolved,Registrar Office,17,1.39,2,F,2024-05-08,May,Wednesday,8
+2023-10-04 15:00:00,North Campus,Sciences,Library and Learning Resources,Counseling services overcrowded,Low,In Progress,Health Services,19,1.79,1,F,2023-10-04,October,Wednesday,15
+2023-09-20 01:00:00,South Campus,Liberal Arts,Administrative and Registration,Need for better academic counseling services,Low,Resolved,Academic Affairs,25,3.94,2,F,2023-09-20,September,Wednesday,1
+2023-08-29 10:00:00,North Campus,Business,Health and Wellness,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,16,3.34,5,M,2023-08-29,August,Tuesday,10
+2023-09-26 03:00:00,South Campus,Business,Student Services and Facilities,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,18,1.92,2,F,2023-09-26,September,Tuesday,3
+2023-12-23 04:00:00,Main Campus,Business,Technology and IT Support,Insufficient tutoring and academic support,High,In Progress,Academic Affairs,24,1.29,1,F,2023-12-23,December,Saturday,4
+2024-03-02 06:00:00,South Campus,Computer Science,Technology and IT Support,Online learning platform issues,High,Resolved,IT Department,21,1.87,1,F,2024-03-02,March,Saturday,6
+2023-10-09 23:00:00,Main Campus,Engineering,Administrative and Registration,Counseling services overcrowded,Low,Resolved,Health Services,21,3.55,2,F,2023-10-09,October,Monday,23
+2024-03-17 02:00:00,South Campus,Computer Science,Library and Learning Resources,Poor quality of online course materials,Low,Resolved,Academic Affairs,23,1.64,2,F,2024-03-17,March,Sunday,2
+2023-11-30 08:00:00,South Campus,Sciences,Academic Support and Resources,Limited office hours for instructors,Medium,Resolved,Academic Affairs,16,1.42,1,F,2023-11-30,November,Thursday,8
+2024-05-06 14:00:00,South Campus,Liberal Arts,Academic Support and Resources,Study area conditions poor,Low,Resolved,Library Services,16,4.18,1,F,2024-05-06,May,Monday,14
+2023-12-04 01:00:00,South Campus,Sciences,Technology and IT Support,Counseling services overcrowded,Low,In Progress,Health Services,21,0.14,2,F,2023-12-04,December,Monday,1
+2024-02-18 12:00:00,Main Campus,Business,Technology and IT Support,Counseling services overcrowded,Low,Resolved,Health Services,24,2.31,1,F,2024-02-18,February,Sunday,12
+2023-11-04 16:00:00,North Campus,Business,Academic Support and Resources,Medical services not open enough hours,Critical,In Progress,Health Services,25,1.45,4,M,2023-11-04,November,Saturday,16
+2024-04-13 07:00:00,North Campus,Business,Student Services and Facilities,Unclear graduation requirements,Medium,In Progress,Registrar Office,23,1.13,3,M,2024-04-13,April,Saturday,7
+2023-11-21 00:00:00,North Campus,Engineering,Academic Support and Resources,Online learning platform issues,High,Resolved,IT Department,19,0.01,1,F,2023-11-21,November,Tuesday,0
+2023-11-09 14:00:00,Main Campus,Business,Student Services and Facilities,Limited office hours for instructors,Medium,In Progress,Academic Affairs,19,2.06,4,M,2023-11-09,November,Thursday,14
+2024-04-28 19:00:00,South Campus,Sciences,Technology and IT Support,Financial aid processing delays,Low,Open,Registrar Office,24,2.71,5,M,2024-04-28,April,Sunday,19
+2023-12-02 10:00:00,South Campus,Sciences,Administrative and Registration,Course registration system difficulties,Low,Resolved,Registrar Office,23,1.08,1,F,2023-12-02,December,Saturday,10
+2024-02-15 14:00:00,South Campus,Computer Science,Student Services and Facilities,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,23,2.53,5,M,2024-02-15,February,Thursday,14
+2023-10-10 02:00:00,North Campus,Computer Science,Student Services and Facilities,Database access limited,Medium,Resolved,Library Services,21,3.46,3,M,2023-10-10,October,Tuesday,2
+2024-01-26 11:00:00,Main Campus,Sciences,Academic Support and Resources,Email and portal access problems,Low,Closed,IT Department,21,2.18,5,M,2024-01-26,January,Friday,11
+2024-02-02 23:00:00,South Campus,Business,Student Services and Facilities,Dormitory maintenance issues,High,Resolved,Student Services,26,3.12,4,M,2024-02-02,February,Friday,23
+2023-10-31 11:00:00,Main Campus,Computer Science,Health and Wellness,Computer lab systems outdated,Low,Resolved,IT Department,16,2.07,3,M,2023-10-31,October,Tuesday,11
+2024-02-27 14:00:00,Main Campus,Engineering,Library and Learning Resources,Wi-Fi connection unstable,Low,Open,IT Department,27,4.58,2,F,2024-02-27,February,Tuesday,14
+2023-11-05 11:00:00,South Campus,Sciences,Library and Learning Resources,Need for better academic counseling services,Low,Resolved,Academic Affairs,16,0.6,3,M,2023-11-05,November,Sunday,11
+2024-03-31 21:00:00,Main Campus,Computer Science,Academic Support and Resources,Campus safety concerns,Critical,Resolved,Health Services,24,4.04,5,M,2024-03-31,March,Sunday,21
+2023-10-31 14:00:00,North Campus,Engineering,Library and Learning Resources,Admission process was unclear,Medium,Resolved,Registrar Office,23,1.35,2,F,2023-10-31,October,Tuesday,14
+2023-10-03 19:00:00,North Campus,Liberal Arts,Technology and IT Support,Library hours insufficient,High,Resolved,Library Services,21,3.01,5,M,2023-10-03,October,Tuesday,19
+2024-03-01 19:00:00,South Campus,Business,Technology and IT Support,Online learning platform issues,High,In Progress,IT Department,18,3.54,2,F,2024-03-01,March,Friday,19
+2024-04-20 03:00:00,Main Campus,Engineering,Administrative and Registration,Online learning platform issues,High,Open,IT Department,26,3.35,2,F,2024-04-20,April,Saturday,3
+2024-04-06 01:00:00,South Campus,Engineering,Administrative and Registration,Delayed transcript processing,Medium,Resolved,Registrar Office,16,2.35,5,M,2024-04-06,April,Saturday,1
+2024-04-08 07:00:00,South Campus,Business,Student Services and Facilities,Insufficient tutoring and academic support,High,In Progress,Academic Affairs,16,2.26,4,F,2024-04-08,April,Monday,7
+2024-02-03 15:00:00,South Campus,Business,Academic Support and Resources,Technical support response time slow,Medium,Resolved,IT Department,20,1.7,1,F,2024-02-03,February,Saturday,15
+2023-12-21 12:00:00,South Campus,Engineering,Academic Support and Resources,Email and portal access problems,Low,In Progress,IT Department,25,2.29,4,M,2023-12-21,December,Thursday,12
+2023-11-19 18:00:00,Main Campus,Computer Science,Student Services and Facilities,Inadequate access to lab resources,Low,Closed,Academic Affairs,22,3.43,1,F,2023-11-19,November,Sunday,18
+2023-09-27 11:00:00,South Campus,Computer Science,Administrative and Registration,Poor quality of online course materials,Low,Closed,Academic Affairs,21,1.39,1,F,2023-09-27,September,Wednesday,11
+2023-11-14 13:00:00,North Campus,Engineering,Technology and IT Support,Struggling with course content difficulty,Low,In Progress,Academic Affairs,19,2.59,1,F,2023-11-14,November,Tuesday,13
+2024-04-03 05:00:00,Main Campus,Engineering,Administrative and Registration,Long wait times for health services,Critical,In Progress,Health Services,20,0.27,5,M,2024-04-03,April,Wednesday,5
+2023-10-09 22:00:00,South Campus,Liberal Arts,Academic Support and Resources,Need for better academic counseling services,Low,Resolved,Academic Affairs,27,1.73,4,M,2023-10-09,October,Monday,22
+2023-11-24 10:00:00,Main Campus,Engineering,Library and Learning Resources,Limited office hours for instructors,Medium,Closed,Academic Affairs,24,1.36,2,F,2023-11-24,November,Friday,10
+2023-09-07 23:00:00,North Campus,Business,Library and Learning Resources,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,27,1.74,4,M,2023-09-07,September,Thursday,23
+2024-04-18 06:00:00,South Campus,Business,Technology and IT Support,Campus facilities in poor condition,Low,In Progress,Student Services,21,3.14,1,F,2024-04-18,April,Thursday,6
+2024-02-29 22:00:00,North Campus,Sciences,Library and Learning Resources,Online learning platform issues,High,Resolved,IT Department,21,0.26,5,M,2024-02-29,February,Thursday,22
+2023-10-04 13:00:00,Main Campus,Sciences,Health and Wellness,Database access limited,Medium,Resolved,Library Services,17,1.88,1,F,2023-10-04,October,Wednesday,13
+2023-12-07 15:00:00,South Campus,Liberal Arts,Library and Learning Resources,Course registration system difficulties,Low,In Progress,Registrar Office,19,3.1,1,F,2023-12-07,December,Thursday,15
+2024-02-20 01:00:00,North Campus,Liberal Arts,Academic Support and Resources,Need for better academic counseling services,Low,Resolved,Academic Affairs,20,3.66,4,M,2024-02-20,February,Tuesday,1
+2023-09-10 20:00:00,South Campus,Computer Science,Student Services and Facilities,Interlibrary loan process slow,Medium,Open,Library Services,17,0.1,1,F,2023-09-10,September,Sunday,20
+2024-04-13 08:00:00,South Campus,Sciences,Academic Support and Resources,Medical services not open enough hours,Critical,Open,Health Services,23,3.53,4,M,2024-04-13,April,Saturday,8
+2023-09-05 20:00:00,Main Campus,Computer Science,Academic Support and Resources,Limited office hours for instructors,Medium,In Progress,Academic Affairs,23,2.86,3,M,2023-09-05,September,Tuesday,20
+2024-03-21 03:00:00,Main Campus,Business,Academic Support and Resources,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,21,3.53,1,F,2024-03-21,March,Thursday,3
+2023-12-12 06:00:00,North Campus,Liberal Arts,Health and Wellness,Difficulty finding required course materials,Low,In Progress,Academic Affairs,26,2.31,2,F,2023-12-12,December,Tuesday,6
+2024-03-14 20:00:00,South Campus,Engineering,Technology and IT Support,Counseling services overcrowded,Low,Resolved,Health Services,18,1.99,5,M,2024-03-14,March,Thursday,20
+2024-03-21 16:00:00,North Campus,Sciences,Health and Wellness,Mental health support inadequate,Critical,In Progress,Health Services,19,0.42,3,M,2024-03-21,March,Thursday,16
+2024-03-10 20:00:00,North Campus,Business,Academic Support and Resources,Dormitory maintenance issues,High,In Progress,Student Services,16,3.12,5,M,2024-03-10,March,Sunday,20
+2024-03-10 08:00:00,North Campus,Engineering,Technology and IT Support,Medical services not open enough hours,Critical,In Progress,Health Services,18,3.42,3,M,2024-03-10,March,Sunday,8
+2023-12-04 14:00:00,South Campus,Sciences,Health and Wellness,Campus facilities in poor condition,Low,Closed,Student Services,16,2.56,1,F,2023-12-04,December,Monday,14
+2023-09-05 03:00:00,South Campus,Engineering,Administrative and Registration,Delayed transcript processing,Medium,Resolved,Registrar Office,27,2.22,1,F,2023-09-05,September,Tuesday,3
+2024-02-12 16:00:00,North Campus,Sciences,Health and Wellness,Online learning platform issues,High,Resolved,IT Department,25,3.56,2,F,2024-02-12,February,Monday,16
+2023-11-15 10:00:00,South Campus,Business,Student Services and Facilities,Email and portal access problems,Low,Resolved,IT Department,16,3.57,4,F,2023-11-15,November,Wednesday,10
+2024-01-25 13:00:00,North Campus,Sciences,Student Services and Facilities,Financial aid processing delays,Low,Closed,Registrar Office,24,2.41,1,F,2024-01-25,January,Thursday,13
+2023-10-04 18:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Wi-Fi connection unstable,Low,In Progress,IT Department,18,4.97,1,F,2023-10-04,October,Wednesday,18
+2023-11-10 03:00:00,North Campus,Sciences,Student Services and Facilities,Mental health support inadequate,Critical,Resolved,Health Services,24,1.64,3,M,2023-11-10,November,Friday,3
+2024-01-12 20:00:00,North Campus,Computer Science,Administrative and Registration,VPN connectivity issues,High,Resolved,IT Department,27,0.01,1,F,2024-01-12,January,Friday,20
+2023-12-28 23:00:00,North Campus,Computer Science,Library and Learning Resources,Database access limited,Medium,Resolved,Library Services,18,1.72,1,F,2023-12-28,December,Thursday,23
+2024-04-06 06:00:00,South Campus,Computer Science,Technology and IT Support,Wi-Fi connection unstable,Low,Open,IT Department,19,1.65,2,F,2024-04-06,April,Saturday,6
+2024-01-09 12:00:00,South Campus,Computer Science,Academic Support and Resources,Gym and sports facility issues,High,Resolved,Student Services,21,1.3,3,M,2024-01-09,January,Tuesday,12
+2023-12-03 08:00:00,Main Campus,Computer Science,Academic Support and Resources,Campus safety concerns,Critical,Open,Health Services,18,4.07,1,F,2023-12-03,December,Sunday,8
+2024-05-12 16:00:00,South Campus,Sciences,Academic Support and Resources,Study area conditions poor,Low,Resolved,Library Services,20,2.13,1,F,2024-05-12,May,Sunday,16
+2023-10-20 09:00:00,North Campus,Engineering,Health and Wellness,Poor quality of online course materials,Low,Resolved,Academic Affairs,16,1.92,5,M,2023-10-20,October,Friday,9
+2023-11-30 21:00:00,North Campus,Computer Science,Administrative and Registration,Poor quality of online course materials,Low,In Progress,Academic Affairs,21,2.61,3,M,2023-11-30,November,Thursday,21
+2023-11-30 20:00:00,Main Campus,Computer Science,Academic Support and Resources,Delayed transcript processing,Medium,Resolved,Registrar Office,21,2.79,2,F,2023-11-30,November,Thursday,20
+2024-02-08 14:00:00,Main Campus,Sciences,Library and Learning Resources,Cafeteria food quality concerns,Low,Open,Student Services,21,1.53,1,F,2024-02-08,February,Thursday,14
+2023-08-31 07:00:00,Main Campus,Business,Administrative and Registration,Poor quality of online course materials,Low,Resolved,Academic Affairs,16,3.26,1,F,2023-08-31,August,Thursday,7
+2023-09-19 19:00:00,South Campus,Computer Science,Student Services and Facilities,Need for more study spaces,Low,Resolved,Student Services,20,2.23,2,F,2023-09-19,September,Tuesday,19
+2024-01-25 19:00:00,North Campus,Liberal Arts,Administrative and Registration,Computer lab systems outdated,Low,In Progress,IT Department,23,0.01,3,M,2024-01-25,January,Thursday,19
+2023-12-30 03:00:00,South Campus,Sciences,Health and Wellness,Technical support response time slow,Medium,Open,IT Department,25,3.52,2,F,2023-12-30,December,Saturday,3
+2023-10-14 04:00:00,Main Campus,Computer Science,Academic Support and Resources,Counseling services overcrowded,Low,Closed,Health Services,26,2.81,2,F,2023-10-14,October,Saturday,4
+2024-04-23 05:00:00,Main Campus,Engineering,Student Services and Facilities,Struggling with course content difficulty,Low,Open,Academic Affairs,24,2.2,5,M,2024-04-23,April,Tuesday,5
+2023-08-29 16:00:00,Main Campus,Liberal Arts,Technology and IT Support,Email and portal access problems,Low,In Progress,IT Department,27,0.01,2,F,2023-08-29,August,Tuesday,16
+2024-01-16 15:00:00,South Campus,Computer Science,Administrative and Registration,Database access limited,Medium,In Progress,Library Services,21,2.71,5,M,2024-01-16,January,Tuesday,15
+2024-02-06 20:00:00,North Campus,Computer Science,Health and Wellness,Technical support response time slow,Medium,Resolved,IT Department,22,2.76,1,F,2024-02-06,February,Tuesday,20
+2024-03-31 04:00:00,Main Campus,Computer Science,Administrative and Registration,Computer lab systems outdated,Low,Resolved,IT Department,18,3.08,2,F,2024-03-31,March,Sunday,4
+2024-01-03 22:00:00,North Campus,Sciences,Academic Support and Resources,Confusion with degree requirements,Low,Open,Registrar Office,24,0.8,2,F,2024-01-03,January,Wednesday,22
+2023-09-16 07:00:00,Main Campus,Computer Science,Academic Support and Resources,Medical services not open enough hours,Critical,In Progress,Health Services,27,0.77,3,M,2023-09-16,September,Saturday,7
+2024-02-08 16:00:00,South Campus,Computer Science,Administrative and Registration,Online learning platform issues,High,In Progress,IT Department,20,2.24,5,M,2024-02-08,February,Thursday,16
+2024-04-26 07:00:00,South Campus,Liberal Arts,Academic Support and Resources,Dormitory maintenance issues,High,In Progress,Student Services,23,3.89,2,F,2024-04-26,April,Friday,7
+2024-02-20 09:00:00,Main Campus,Business,Academic Support and Resources,Online learning platform issues,High,Resolved,IT Department,20,3.75,4,M,2024-02-20,February,Tuesday,9
+2023-12-11 13:00:00,North Campus,Liberal Arts,Technology and IT Support,Campus safety concerns,Critical,Resolved,Health Services,22,0.54,1,F,2023-12-11,December,Monday,13
+2024-01-07 21:00:00,North Campus,Business,Library and Learning Resources,Limited recreational facilities,Medium,In Progress,Student Services,19,2.41,5,M,2024-01-07,January,Sunday,21
+2023-11-29 02:00:00,Main Campus,Computer Science,Technology and IT Support,Gym and sports facility issues,High,In Progress,Student Services,21,2.33,3,M,2023-11-29,November,Wednesday,2
+2023-11-05 23:00:00,North Campus,Sciences,Library and Learning Resources,Mental health support inadequate,Critical,In Progress,Health Services,24,0.17,5,M,2023-11-05,November,Sunday,23
+2024-03-27 18:00:00,Main Campus,Sciences,Student Services and Facilities,Medical services not open enough hours,Critical,Closed,Health Services,23,2.5,4,M,2024-03-27,March,Wednesday,18
+2023-08-27 22:00:00,North Campus,Sciences,Library and Learning Resources,Medical services not open enough hours,Critical,Closed,Health Services,22,4.15,2,F,2023-08-27,August,Sunday,22
+2024-01-25 15:00:00,North Campus,Liberal Arts,Academic Support and Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,27,1.19,5,M,2024-01-25,January,Thursday,15
+2024-01-04 20:00:00,Main Campus,Computer Science,Library and Learning Resources,Medical services not open enough hours,Critical,In Progress,Health Services,20,4.97,1,F,2024-01-04,January,Thursday,20
+2024-03-25 03:00:00,South Campus,Sciences,Library and Learning Resources,Unclear graduation requirements,Medium,Open,Registrar Office,17,0.8,4,M,2024-03-25,March,Monday,3
+2024-02-24 13:00:00,South Campus,Sciences,Technology and IT Support,Inadequate access to lab resources,Low,In Progress,Academic Affairs,24,1.54,4,F,2024-02-24,February,Saturday,13
+2024-01-13 19:00:00,North Campus,Engineering,Library and Learning Resources,Wi-Fi connection unstable,Low,In Progress,IT Department,17,1.53,4,M,2024-01-13,January,Saturday,19
+2024-02-07 21:00:00,Main Campus,Sciences,Health and Wellness,Difficulty finding required course materials,Low,Resolved,Academic Affairs,20,1.39,2,F,2024-02-07,February,Wednesday,21
+2023-10-27 15:00:00,North Campus,Computer Science,Student Services and Facilities,Database access limited,Medium,Resolved,Library Services,18,1.0,2,F,2023-10-27,October,Friday,15
+2024-04-19 01:00:00,Main Campus,Computer Science,Administrative and Registration,Limited office hours for instructors,Medium,Resolved,Academic Affairs,19,0.01,4,M,2024-04-19,April,Friday,1
+2024-03-29 01:00:00,North Campus,Liberal Arts,Health and Wellness,Dormitory maintenance issues,High,Resolved,Student Services,21,4.6,1,F,2024-03-29,March,Friday,1
+2023-10-24 04:00:00,South Campus,Sciences,Academic Support and Resources,Confusion with degree requirements,Low,In Progress,Registrar Office,18,2.09,2,F,2023-10-24,October,Tuesday,4
+2023-11-06 03:00:00,North Campus,Engineering,Health and Wellness,Study area conditions poor,Low,Resolved,Library Services,26,1.43,2,F,2023-11-06,November,Monday,3
+2023-12-17 20:00:00,North Campus,Business,Library and Learning Resources,Long wait times for health services,Critical,In Progress,Health Services,23,2.1,3,M,2023-12-17,December,Sunday,20
+2024-02-20 14:00:00,North Campus,Sciences,Academic Support and Resources,Study area conditions poor,Low,Open,Library Services,21,0.43,1,F,2024-02-20,February,Tuesday,14
+2023-09-22 16:00:00,South Campus,Business,Technology and IT Support,Counseling services overcrowded,Low,Resolved,Health Services,23,3.2,4,M,2023-09-22,September,Friday,16
+2023-08-29 17:00:00,North Campus,Liberal Arts,Library and Learning Resources,Limited access to research databases and materials,Medium,Open,Academic Affairs,23,3.57,2,F,2023-08-29,August,Tuesday,17
+2023-12-05 23:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Interlibrary loan process slow,Medium,Resolved,Library Services,16,2.6,1,F,2023-12-05,December,Tuesday,23
+2023-09-29 21:00:00,Main Campus,Computer Science,Library and Learning Resources,Limited recreational facilities,Medium,In Progress,Student Services,18,1.31,4,M,2023-09-29,September,Friday,21
+2023-11-28 00:00:00,North Campus,Liberal Arts,Administrative and Registration,Medical services not open enough hours,Critical,Resolved,Health Services,22,2.69,1,F,2023-11-28,November,Tuesday,0
+2023-08-30 14:00:00,Main Campus,Liberal Arts,Library and Learning Resources,VPN connectivity issues,High,Resolved,IT Department,26,2.33,1,F,2023-08-30,August,Wednesday,14
+2023-09-30 06:00:00,North Campus,Computer Science,Technology and IT Support,Mental health support inadequate,Critical,In Progress,Health Services,22,2.93,4,M,2023-09-30,September,Saturday,6
+2023-08-16 03:00:00,Main Campus,Computer Science,Academic Support and Resources,Limited office hours for instructors,Medium,Resolved,Academic Affairs,18,0.9,1,F,2023-08-16,August,Wednesday,3
+2024-01-20 02:00:00,North Campus,Liberal Arts,Administrative and Registration,Cafeteria food quality concerns,Low,In Progress,Student Services,20,3.48,1,F,2024-01-20,January,Saturday,2
+2023-12-30 00:00:00,North Campus,Liberal Arts,Technology and IT Support,Poor quality of online course materials,Low,Resolved,Academic Affairs,18,0.29,2,F,2023-12-30,December,Saturday,0
+2023-09-12 21:00:00,Main Campus,Computer Science,Student Services and Facilities,Cafeteria food quality concerns,Low,Resolved,Student Services,26,3.51,2,F,2023-09-12,September,Tuesday,21
+2023-09-23 19:00:00,Main Campus,Business,Health and Wellness,Technical support response time slow,Medium,Resolved,IT Department,23,0.49,1,F,2023-09-23,September,Saturday,19
+2024-04-22 10:00:00,North Campus,Business,Health and Wellness,Need for more study spaces,Low,Closed,Student Services,21,3.34,4,M,2024-04-22,April,Monday,10
+2024-05-01 02:00:00,North Campus,Liberal Arts,Academic Support and Resources,Online learning platform issues,High,In Progress,IT Department,19,0.86,1,F,2024-05-01,May,Wednesday,2
+2024-03-05 09:00:00,Main Campus,Sciences,Health and Wellness,Medical services not open enough hours,Critical,Resolved,Health Services,24,3.53,3,M,2024-03-05,March,Tuesday,9
+2023-08-30 09:00:00,South Campus,Engineering,Technology and IT Support,Interlibrary loan process slow,Medium,Resolved,Library Services,24,4.02,3,M,2023-08-30,August,Wednesday,9
+2023-10-08 10:00:00,South Campus,Engineering,Administrative and Registration,Limited access to research databases and materials,Medium,Closed,Academic Affairs,21,1.84,2,F,2023-10-08,October,Sunday,10
+2024-03-09 04:00:00,South Campus,Engineering,Academic Support and Resources,Insufficient tutoring and academic support,High,In Progress,Academic Affairs,21,1.31,3,M,2024-03-09,March,Saturday,4
+2024-02-12 11:00:00,North Campus,Computer Science,Academic Support and Resources,Course registration system difficulties,Low,Resolved,Registrar Office,20,2.64,2,F,2024-02-12,February,Monday,11
+2024-02-08 18:00:00,Main Campus,Computer Science,Student Services and Facilities,Library hours insufficient,High,Resolved,Library Services,24,2.36,2,F,2024-02-08,February,Thursday,18
+2023-12-22 06:00:00,Main Campus,Engineering,Library and Learning Resources,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,24,4.11,1,F,2023-12-22,December,Friday,6
+2023-12-07 19:00:00,North Campus,Sciences,Academic Support and Resources,Mental health support inadequate,Critical,Resolved,Health Services,21,3.56,1,F,2023-12-07,December,Thursday,19
+2023-11-06 22:00:00,North Campus,Computer Science,Health and Wellness,Long wait times for health services,Critical,In Progress,Health Services,23,3.4,2,F,2023-11-06,November,Monday,22
+2023-10-20 01:00:00,North Campus,Sciences,Academic Support and Resources,Mental health support inadequate,Critical,Resolved,Health Services,22,1.09,4,F,2023-10-20,October,Friday,1
+2024-01-09 12:00:00,South Campus,Sciences,Student Services and Facilities,Limited book availability,Medium,Resolved,Library Services,19,0.01,4,F,2024-01-09,January,Tuesday,12
+2023-11-09 20:00:00,South Campus,Liberal Arts,Library and Learning Resources,Delayed transcript processing,Medium,Resolved,Registrar Office,21,2.65,2,F,2023-11-09,November,Thursday,20
+2024-01-15 08:00:00,Main Campus,Computer Science,Technology and IT Support,Poor quality of online course materials,Low,Resolved,Academic Affairs,21,2.9,5,M,2024-01-15,January,Monday,8
+2023-12-25 01:00:00,North Campus,Engineering,Academic Support and Resources,Need for better academic counseling services,Low,Resolved,Academic Affairs,20,1.56,3,M,2023-12-25,December,Monday,1
+2023-08-24 18:00:00,South Campus,Engineering,Administrative and Registration,Long wait times for health services,Critical,Open,Health Services,20,2.85,2,F,2023-08-24,August,Thursday,18
+2024-04-03 11:00:00,South Campus,Business,Academic Support and Resources,VPN connectivity issues,High,In Progress,IT Department,19,2.32,5,M,2024-04-03,April,Wednesday,11
+2024-03-09 05:00:00,Main Campus,Sciences,Administrative and Registration,Need for better academic counseling services,Low,Resolved,Academic Affairs,22,1.5,1,F,2024-03-09,March,Saturday,5
+2024-04-28 01:00:00,South Campus,Computer Science,Health and Wellness,Difficulty finding required course materials,Low,In Progress,Academic Affairs,23,2.87,3,M,2024-04-28,April,Sunday,1
+2023-12-08 13:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Medical services not open enough hours,Critical,In Progress,Health Services,23,3.03,3,M,2023-12-08,December,Friday,13
+2023-12-26 23:00:00,South Campus,Business,Student Services and Facilities,Delayed transcript processing,Medium,Resolved,Registrar Office,16,0.91,5,M,2023-12-26,December,Tuesday,23
+2023-12-22 17:00:00,Main Campus,Computer Science,Administrative and Registration,Need for better academic counseling services,Low,In Progress,Academic Affairs,19,1.35,5,M,2023-12-22,December,Friday,17
+2024-03-16 16:00:00,South Campus,Engineering,Library and Learning Resources,Difficulty finding required course materials,Low,In Progress,Academic Affairs,16,2.55,1,F,2024-03-16,March,Saturday,16
+2024-03-03 06:00:00,North Campus,Computer Science,Library and Learning Resources,Email and portal access problems,Low,Resolved,IT Department,21,1.91,1,F,2024-03-03,March,Sunday,6
+2023-11-27 13:00:00,Main Campus,Computer Science,Academic Support and Resources,Limited recreational facilities,Medium,Open,Student Services,22,1.55,4,M,2023-11-27,November,Monday,13
+2024-05-09 00:00:00,South Campus,Liberal Arts,Technology and IT Support,Struggling with course content difficulty,Low,Closed,Academic Affairs,23,0.65,1,F,2024-05-09,May,Thursday,0
+2024-04-20 13:00:00,North Campus,Liberal Arts,Student Services and Facilities,Counseling services overcrowded,Low,Resolved,Health Services,24,4.04,4,M,2024-04-20,April,Saturday,13
+2024-04-05 23:00:00,North Campus,Sciences,Administrative and Registration,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,18,4.23,4,F,2024-04-05,April,Friday,23
+2023-12-23 02:00:00,South Campus,Sciences,Technology and IT Support,Campus facilities in poor condition,Low,Open,Student Services,26,0.01,5,M,2023-12-23,December,Saturday,2
+2023-10-19 22:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Limited recreational facilities,Medium,Resolved,Student Services,27,1.73,1,F,2023-10-19,October,Thursday,22
+2024-03-28 17:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Poor quality of online course materials,Low,Resolved,Academic Affairs,18,1.97,4,F,2024-03-28,March,Thursday,17
+2024-01-02 09:00:00,Main Campus,Computer Science,Health and Wellness,Limited recreational facilities,Medium,Resolved,Student Services,19,1.86,2,F,2024-01-02,January,Tuesday,9
+2024-01-02 05:00:00,North Campus,Sciences,Student Services and Facilities,Cafeteria food quality concerns,Low,Open,Student Services,27,1.09,4,M,2024-01-02,January,Tuesday,5
+2023-09-20 05:00:00,South Campus,Engineering,Technology and IT Support,Database access limited,Medium,Resolved,Library Services,26,1.86,4,M,2023-09-20,September,Wednesday,5
+2023-10-19 01:00:00,North Campus,Liberal Arts,Student Services and Facilities,VPN connectivity issues,High,Resolved,IT Department,16,3.53,4,M,2023-10-19,October,Thursday,1
+2024-01-14 22:00:00,North Campus,Engineering,Health and Wellness,Insufficient parking on campus,High,Resolved,Student Services,19,2.44,5,M,2024-01-14,January,Sunday,22
+2024-02-04 00:00:00,Main Campus,Business,Student Services and Facilities,VPN connectivity issues,High,Resolved,IT Department,23,4.07,1,F,2024-02-04,February,Sunday,0
+2023-09-20 11:00:00,South Campus,Liberal Arts,Health and Wellness,Struggling with course content difficulty,Low,Resolved,Academic Affairs,16,0.77,1,F,2023-09-20,September,Wednesday,11
+2023-12-05 12:00:00,North Campus,Sciences,Student Services and Facilities,Limited recreational facilities,Medium,Resolved,Student Services,16,0.01,2,F,2023-12-05,December,Tuesday,12
+2024-02-18 04:00:00,North Campus,Sciences,Academic Support and Resources,Insufficient tutoring and academic support,High,Open,Academic Affairs,23,2.7,3,M,2024-02-18,February,Sunday,4
+2024-03-11 12:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Admission process was unclear,Medium,Resolved,Registrar Office,22,0.46,2,F,2024-03-11,March,Monday,12
+2023-11-18 13:00:00,South Campus,Engineering,Academic Support and Resources,Campus safety concerns,Critical,Open,Health Services,18,1.22,2,F,2023-11-18,November,Saturday,13
+2024-04-06 13:00:00,North Campus,Sciences,Administrative and Registration,Library hours insufficient,High,Resolved,Library Services,25,2.61,4,M,2024-04-06,April,Saturday,13
+2024-05-14 03:00:00,North Campus,Business,Academic Support and Resources,VPN connectivity issues,High,In Progress,IT Department,23,2.27,2,F,2024-05-14,May,Tuesday,3
+2023-10-09 07:00:00,North Campus,Computer Science,Academic Support and Resources,Limited book availability,Medium,Resolved,Library Services,17,0.01,3,M,2023-10-09,October,Monday,7
+2024-03-29 07:00:00,North Campus,Engineering,Academic Support and Resources,Technical support response time slow,Medium,Open,IT Department,22,0.01,3,M,2024-03-29,March,Friday,7
+2023-11-20 12:00:00,North Campus,Computer Science,Academic Support and Resources,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,24,3.8,4,M,2023-11-20,November,Monday,12
+2024-02-04 23:00:00,North Campus,Engineering,Library and Learning Resources,Computer lab systems outdated,Low,Resolved,IT Department,20,2.65,4,M,2024-02-04,February,Sunday,23
+2024-01-18 14:00:00,North Campus,Liberal Arts,Student Services and Facilities,Admission process was unclear,Medium,In Progress,Registrar Office,21,2.64,1,F,2024-01-18,January,Thursday,14
+2023-11-23 12:00:00,North Campus,Liberal Arts,Library and Learning Resources,Limited book availability,Medium,Open,Library Services,19,4.04,3,M,2023-11-23,November,Thursday,12
+2024-03-28 07:00:00,Main Campus,Business,Health and Wellness,Gym and sports facility issues,High,Open,Student Services,25,0.71,1,F,2024-03-28,March,Thursday,7
+2023-09-13 18:00:00,North Campus,Computer Science,Administrative and Registration,Dormitory maintenance issues,High,Resolved,Student Services,22,4.36,4,M,2023-09-13,September,Wednesday,18
+2023-10-16 04:00:00,North Campus,Computer Science,Health and Wellness,Library hours insufficient,High,Resolved,Library Services,17,2.86,4,M,2023-10-16,October,Monday,4
+2023-12-16 18:00:00,South Campus,Liberal Arts,Administrative and Registration,Email and portal access problems,Low,Resolved,IT Department,22,2.57,1,F,2023-12-16,December,Saturday,18
+2024-03-15 04:00:00,North Campus,Engineering,Technology and IT Support,Cafeteria food quality concerns,Low,Open,Student Services,21,2.48,4,F,2024-03-15,March,Friday,4
+2023-09-24 12:00:00,South Campus,Engineering,Student Services and Facilities,Database access limited,Medium,Resolved,Library Services,22,2.21,3,M,2023-09-24,September,Sunday,12
+2023-08-31 01:00:00,North Campus,Engineering,Student Services and Facilities,Need for better academic counseling services,Low,Resolved,Academic Affairs,23,2.75,1,F,2023-08-31,August,Thursday,1
+2023-12-13 12:00:00,North Campus,Computer Science,Library and Learning Resources,Mental health support inadequate,Critical,Resolved,Health Services,20,0.82,1,F,2023-12-13,December,Wednesday,12
+2024-01-20 11:00:00,Main Campus,Sciences,Library and Learning Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,16,2.14,1,F,2024-01-20,January,Saturday,11
+2023-09-05 07:00:00,North Campus,Engineering,Library and Learning Resources,Delayed transcript processing,Medium,Open,Registrar Office,22,3.48,4,M,2023-09-05,September,Tuesday,7
+2024-02-05 04:00:00,South Campus,Liberal Arts,Administrative and Registration,Interlibrary loan process slow,Medium,Open,Library Services,16,2.12,4,M,2024-02-05,February,Monday,4
+2023-10-21 16:00:00,North Campus,Sciences,Technology and IT Support,Campus facilities in poor condition,Low,Open,Student Services,16,2.16,4,M,2023-10-21,October,Saturday,16
+2024-04-21 02:00:00,North Campus,Sciences,Administrative and Registration,Confusion with degree requirements,Low,In Progress,Registrar Office,25,1.73,3,M,2024-04-21,April,Sunday,2
+2023-08-31 08:00:00,North Campus,Business,Administrative and Registration,Limited office hours for instructors,Medium,Open,Academic Affairs,24,1.42,1,F,2023-08-31,August,Thursday,8
+2024-04-16 18:00:00,South Campus,Computer Science,Academic Support and Resources,Counseling services overcrowded,Low,In Progress,Health Services,18,2.91,2,F,2024-04-16,April,Tuesday,18
+2023-09-05 00:00:00,South Campus,Liberal Arts,Health and Wellness,Limited office hours for instructors,Medium,In Progress,Academic Affairs,23,3.23,1,F,2023-09-05,September,Tuesday,0
+2023-10-12 00:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Insufficient tutoring and academic support,High,Closed,Academic Affairs,24,0.01,5,M,2023-10-12,October,Thursday,0
+2024-01-02 18:00:00,Main Campus,Business,Student Services and Facilities,Gym and sports facility issues,High,Resolved,Student Services,16,4.9,1,F,2024-01-02,January,Tuesday,18
+2023-09-17 18:00:00,South Campus,Liberal Arts,Library and Learning Resources,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,18,1.75,1,F,2023-09-17,September,Sunday,18
+2024-01-29 05:00:00,North Campus,Computer Science,Academic Support and Resources,Long wait times for health services,Critical,Resolved,Health Services,23,2.93,3,M,2024-01-29,January,Monday,5
+2023-11-29 02:00:00,North Campus,Liberal Arts,Academic Support and Resources,Wi-Fi connection unstable,Low,Open,IT Department,17,2.36,1,F,2023-11-29,November,Wednesday,2
+2023-09-07 14:00:00,North Campus,Engineering,Academic Support and Resources,Delayed transcript processing,Medium,Resolved,Registrar Office,21,1.92,1,F,2023-09-07,September,Thursday,14
+2023-10-07 20:00:00,Main Campus,Business,Library and Learning Resources,Insufficient parking on campus,High,In Progress,Student Services,23,3.71,5,M,2023-10-07,October,Saturday,20
+2024-05-05 01:00:00,South Campus,Liberal Arts,Administrative and Registration,Delayed transcript processing,Medium,Resolved,Registrar Office,21,2.26,3,M,2024-05-05,May,Sunday,1
+2023-10-29 12:00:00,Main Campus,Liberal Arts,Administrative and Registration,Confusion with degree requirements,Low,In Progress,Registrar Office,22,2.76,3,M,2023-10-29,October,Sunday,12
+2024-04-03 15:00:00,South Campus,Sciences,Technology and IT Support,Interlibrary loan process slow,Medium,Closed,Library Services,24,1.82,2,F,2024-04-03,April,Wednesday,15
+2023-12-31 05:00:00,South Campus,Engineering,Technology and IT Support,Gym and sports facility issues,High,In Progress,Student Services,20,0.96,2,F,2023-12-31,December,Sunday,5
+2024-01-27 14:00:00,Main Campus,Computer Science,Student Services and Facilities,Unclear graduation requirements,Medium,In Progress,Registrar Office,21,3.53,1,F,2024-01-27,January,Saturday,14
+2023-10-03 12:00:00,North Campus,Business,Technology and IT Support,Computer lab systems outdated,Low,Closed,IT Department,23,3.24,3,M,2023-10-03,October,Tuesday,12
+2023-08-28 11:00:00,South Campus,Engineering,Technology and IT Support,Interlibrary loan process slow,Medium,Open,Library Services,19,1.62,2,F,2023-08-28,August,Monday,11
+2023-12-04 02:00:00,North Campus,Sciences,Health and Wellness,Struggling with course content difficulty,Low,Resolved,Academic Affairs,19,2.15,1,F,2023-12-04,December,Monday,2
+2024-04-11 22:00:00,Main Campus,Computer Science,Academic Support and Resources,Long wait times for health services,Critical,Resolved,Health Services,21,1.45,2,F,2024-04-11,April,Thursday,22
+2023-12-06 19:00:00,Main Campus,Sciences,Library and Learning Resources,Computer lab systems outdated,Low,Resolved,IT Department,22,0.48,1,F,2023-12-06,December,Wednesday,19
+2023-11-04 13:00:00,North Campus,Liberal Arts,Administrative and Registration,Campus safety concerns,Critical,Closed,Health Services,20,0.2,4,M,2023-11-04,November,Saturday,13
+2024-03-26 19:00:00,Main Campus,Business,Student Services and Facilities,Library hours insufficient,High,Closed,Library Services,21,2.02,1,F,2024-03-26,March,Tuesday,19
+2023-08-25 18:00:00,North Campus,Sciences,Administrative and Registration,Mental health support inadequate,Critical,Open,Health Services,16,2.71,5,M,2023-08-25,August,Friday,18
+2024-01-05 09:00:00,South Campus,Computer Science,Academic Support and Resources,Confusion with degree requirements,Low,Resolved,Registrar Office,22,2.81,1,F,2024-01-05,January,Friday,9
+2023-12-06 17:00:00,South Campus,Computer Science,Academic Support and Resources,Admission process was unclear,Medium,Resolved,Registrar Office,26,1.56,2,F,2023-12-06,December,Wednesday,17
+2023-12-25 13:00:00,South Campus,Business,Technology and IT Support,Limited office hours for instructors,Medium,Resolved,Academic Affairs,16,3.56,4,M,2023-12-25,December,Monday,13
+2023-10-10 10:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Financial aid processing delays,Low,Open,Registrar Office,18,1.3,5,M,2023-10-10,October,Tuesday,10
+2023-08-27 08:00:00,South Campus,Computer Science,Administrative and Registration,Mental health support inadequate,Critical,Resolved,Health Services,19,1.59,3,M,2023-08-27,August,Sunday,8
+2024-02-13 17:00:00,North Campus,Business,Administrative and Registration,Library hours insufficient,High,Closed,Library Services,22,1.18,5,M,2024-02-13,February,Tuesday,17
+2023-11-08 17:00:00,South Campus,Computer Science,Academic Support and Resources,Online learning platform issues,High,Closed,IT Department,17,2.16,2,F,2023-11-08,November,Wednesday,17
+2023-11-07 20:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Cafeteria food quality concerns,Low,Resolved,Student Services,24,0.98,3,M,2023-11-07,November,Tuesday,20
+2023-12-31 13:00:00,North Campus,Computer Science,Academic Support and Resources,Unclear graduation requirements,Medium,Open,Registrar Office,22,4.08,1,F,2023-12-31,December,Sunday,13
+2023-11-12 19:00:00,Main Campus,Engineering,Student Services and Facilities,Medical services not open enough hours,Critical,In Progress,Health Services,27,1.34,5,M,2023-11-12,November,Sunday,19
+2024-02-24 19:00:00,Main Campus,Computer Science,Student Services and Facilities,Insufficient parking on campus,High,Resolved,Student Services,21,2.32,5,M,2024-02-24,February,Saturday,19
+2024-03-11 16:00:00,South Campus,Sciences,Academic Support and Resources,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,21,1.91,3,M,2024-03-11,March,Monday,16
+2024-04-27 07:00:00,Main Campus,Business,Academic Support and Resources,Study area conditions poor,Low,Resolved,Library Services,26,3.37,3,M,2024-04-27,April,Saturday,7
+2023-09-13 05:00:00,South Campus,Computer Science,Technology and IT Support,Campus safety concerns,Critical,Open,Health Services,27,3.26,3,M,2023-09-13,September,Wednesday,5
+2024-02-15 22:00:00,South Campus,Engineering,Library and Learning Resources,Financial aid processing delays,Low,Resolved,Registrar Office,22,0.01,2,F,2024-02-15,February,Thursday,22
+2023-08-25 16:00:00,North Campus,Engineering,Academic Support and Resources,Study area conditions poor,Low,Resolved,Library Services,18,1.82,2,F,2023-08-25,August,Friday,16
+2023-09-25 23:00:00,Main Campus,Computer Science,Health and Wellness,Need for better academic counseling services,Low,Closed,Academic Affairs,27,4.07,5,M,2023-09-25,September,Monday,23
+2023-08-20 17:00:00,South Campus,Liberal Arts,Technology and IT Support,Difficulty finding required course materials,Low,Resolved,Academic Affairs,20,1.44,1,F,2023-08-20,August,Sunday,17
+2023-11-20 05:00:00,Main Campus,Engineering,Library and Learning Resources,Dormitory maintenance issues,High,In Progress,Student Services,18,2.74,1,F,2023-11-20,November,Monday,5
+2024-04-23 17:00:00,Main Campus,Engineering,Administrative and Registration,Database access limited,Medium,Resolved,Library Services,24,0.39,1,F,2024-04-23,April,Tuesday,17
+2024-05-02 05:00:00,Main Campus,Engineering,Student Services and Facilities,Course registration system difficulties,Low,Open,Registrar Office,27,2.17,4,M,2024-05-02,May,Thursday,5
+2023-11-30 18:00:00,Main Campus,Business,Student Services and Facilities,Medical services not open enough hours,Critical,Closed,Health Services,22,2.12,4,M,2023-11-30,November,Thursday,18
+2024-03-25 03:00:00,North Campus,Computer Science,Technology and IT Support,Study area conditions poor,Low,In Progress,Library Services,20,3.43,1,F,2024-03-25,March,Monday,3
+2023-12-14 16:00:00,Main Campus,Computer Science,Technology and IT Support,Long wait times for health services,Critical,Resolved,Health Services,23,4.37,2,F,2023-12-14,December,Thursday,16
+2024-03-07 21:00:00,Main Campus,Business,Academic Support and Resources,Poor quality of online course materials,Low,In Progress,Academic Affairs,21,2.36,3,M,2024-03-07,March,Thursday,21
+2023-12-06 11:00:00,South Campus,Business,Student Services and Facilities,Dormitory maintenance issues,High,Resolved,Student Services,25,1.18,1,F,2023-12-06,December,Wednesday,11
+2023-11-12 20:00:00,Main Campus,Computer Science,Library and Learning Resources,Interlibrary loan process slow,Medium,Resolved,Library Services,18,2.05,5,M,2023-11-12,November,Sunday,20
+2024-01-15 05:00:00,North Campus,Business,Technology and IT Support,Campus safety concerns,Critical,Resolved,Health Services,22,2.63,3,M,2024-01-15,January,Monday,5
+2024-01-11 03:00:00,Main Campus,Computer Science,Library and Learning Resources,Insufficient parking on campus,High,In Progress,Student Services,19,1.06,2,F,2024-01-11,January,Thursday,3
+2024-03-24 23:00:00,South Campus,Engineering,Technology and IT Support,Long wait times for health services,Critical,In Progress,Health Services,16,2.04,1,F,2024-03-24,March,Sunday,23
+2024-03-21 10:00:00,South Campus,Liberal Arts,Administrative and Registration,Limited access to research databases and materials,Medium,Open,Academic Affairs,20,3.68,4,M,2024-03-21,March,Thursday,10
+2024-05-07 00:00:00,Main Campus,Engineering,Health and Wellness,Library hours insufficient,High,Resolved,Library Services,18,1.85,1,F,2024-05-07,May,Tuesday,0
+2023-08-16 18:00:00,Main Campus,Engineering,Health and Wellness,Database access limited,Medium,Open,Library Services,21,2.32,1,F,2023-08-16,August,Wednesday,18
+2023-08-28 06:00:00,Main Campus,Engineering,Academic Support and Resources,Poor quality of online course materials,Low,Resolved,Academic Affairs,21,4.97,1,F,2023-08-28,August,Monday,6
+2023-09-08 01:00:00,North Campus,Liberal Arts,Health and Wellness,Database access limited,Medium,Resolved,Library Services,20,2.1,2,F,2023-09-08,September,Friday,1
+2024-03-08 21:00:00,Main Campus,Computer Science,Technology and IT Support,VPN connectivity issues,High,Resolved,IT Department,21,1.57,1,F,2024-03-08,March,Friday,21
+2023-11-04 06:00:00,South Campus,Liberal Arts,Academic Support and Resources,Cafeteria food quality concerns,Low,Resolved,Student Services,24,2.43,1,F,2023-11-04,November,Saturday,6
+2024-01-06 20:00:00,South Campus,Computer Science,Technology and IT Support,VPN connectivity issues,High,Resolved,IT Department,24,1.82,5,M,2024-01-06,January,Saturday,20
+2023-09-07 18:00:00,South Campus,Computer Science,Health and Wellness,Struggling with course content difficulty,Low,Open,Academic Affairs,19,0.99,3,M,2023-09-07,September,Thursday,18
+2024-04-26 12:00:00,North Campus,Business,Library and Learning Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,27,0.01,3,M,2024-04-26,April,Friday,12
+2023-08-21 13:00:00,North Campus,Engineering,Academic Support and Resources,Gym and sports facility issues,High,Resolved,Student Services,19,2.95,1,F,2023-08-21,August,Monday,13
+2024-04-22 20:00:00,North Campus,Business,Student Services and Facilities,Delayed transcript processing,Medium,In Progress,Registrar Office,20,2.59,5,M,2024-04-22,April,Monday,20
+2023-11-19 12:00:00,North Campus,Business,Health and Wellness,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,22,1.18,4,M,2023-11-19,November,Sunday,12
+2024-03-01 08:00:00,North Campus,Sciences,Student Services and Facilities,Poor quality of online course materials,Low,Resolved,Academic Affairs,25,3.18,5,M,2024-03-01,March,Friday,8
+2023-12-17 10:00:00,North Campus,Business,Technology and IT Support,Mental health support inadequate,Critical,Resolved,Health Services,16,1.7,1,F,2023-12-17,December,Sunday,10
+2024-04-21 05:00:00,Main Campus,Liberal Arts,Technology and IT Support,Need for better academic counseling services,Low,In Progress,Academic Affairs,22,1.37,3,M,2024-04-21,April,Sunday,5
+2024-04-09 06:00:00,South Campus,Sciences,Academic Support and Resources,Library hours insufficient,High,Resolved,Library Services,23,1.25,5,M,2024-04-09,April,Tuesday,6
+2023-11-08 15:00:00,Main Campus,Liberal Arts,Administrative and Registration,Struggling with course content difficulty,Low,In Progress,Academic Affairs,22,0.67,2,F,2023-11-08,November,Wednesday,15
+2023-08-20 12:00:00,South Campus,Sciences,Administrative and Registration,Struggling with course content difficulty,Low,Open,Academic Affairs,23,0.95,2,F,2023-08-20,August,Sunday,12
+2024-03-03 23:00:00,South Campus,Computer Science,Student Services and Facilities,Email and portal access problems,Low,Closed,IT Department,21,1.84,5,M,2024-03-03,March,Sunday,23
+2023-10-12 15:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Online learning platform issues,High,Resolved,IT Department,24,1.72,2,F,2023-10-12,October,Thursday,15
+2024-04-27 03:00:00,South Campus,Engineering,Technology and IT Support,Campus safety concerns,Critical,Resolved,Health Services,22,0.79,4,M,2024-04-27,April,Saturday,3
+2024-01-14 20:00:00,North Campus,Computer Science,Technology and IT Support,Limited book availability,Medium,Open,Library Services,18,0.01,1,F,2024-01-14,January,Sunday,20
+2024-01-11 12:00:00,North Campus,Sciences,Technology and IT Support,Unclear graduation requirements,Medium,Resolved,Registrar Office,21,0.13,5,M,2024-01-11,January,Thursday,12
+2023-10-04 21:00:00,North Campus,Computer Science,Administrative and Registration,Poor quality of online course materials,Low,Resolved,Academic Affairs,27,3.8,5,M,2023-10-04,October,Wednesday,21
+2024-03-11 23:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Wi-Fi connection unstable,Low,In Progress,IT Department,26,1.89,3,M,2024-03-11,March,Monday,23
+2024-05-06 19:00:00,North Campus,Engineering,Technology and IT Support,Limited office hours for instructors,Medium,Resolved,Academic Affairs,27,2.43,3,M,2024-05-06,May,Monday,19
+2023-11-01 16:00:00,North Campus,Sciences,Technology and IT Support,Counseling services overcrowded,Low,Open,Health Services,18,1.35,2,F,2023-11-01,November,Wednesday,16
+2023-10-28 03:00:00,Main Campus,Engineering,Library and Learning Resources,Dormitory maintenance issues,High,Resolved,Student Services,21,0.01,2,F,2023-10-28,October,Saturday,3
+2023-10-07 21:00:00,North Campus,Business,Student Services and Facilities,Campus safety concerns,Critical,Resolved,Health Services,20,3.28,4,M,2023-10-07,October,Saturday,21
+2024-04-07 00:00:00,Main Campus,Liberal Arts,Technology and IT Support,Computer lab systems outdated,Low,In Progress,IT Department,21,1.7,2,F,2024-04-07,April,Sunday,0
+2024-04-26 13:00:00,Main Campus,Business,Academic Support and Resources,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,21,0.01,2,F,2024-04-26,April,Friday,13
+2024-04-14 08:00:00,Main Campus,Business,Student Services and Facilities,Counseling services overcrowded,Low,In Progress,Health Services,24,3.18,4,M,2024-04-14,April,Sunday,8
+2023-10-25 21:00:00,Main Campus,Computer Science,Student Services and Facilities,Campus safety concerns,Critical,Open,Health Services,22,1.72,3,M,2023-10-25,October,Wednesday,21
+2023-12-22 22:00:00,Main Campus,Sciences,Library and Learning Resources,Struggling with course content difficulty,Low,Resolved,Academic Affairs,26,1.96,3,M,2023-12-22,December,Friday,22
+2023-10-23 03:00:00,Main Campus,Engineering,Library and Learning Resources,Study area conditions poor,Low,Resolved,Library Services,21,1.65,2,F,2023-10-23,October,Monday,3
+2024-01-01 10:00:00,North Campus,Liberal Arts,Technology and IT Support,Campus safety concerns,Critical,Open,Health Services,23,1.5,4,F,2024-01-01,January,Monday,10
+2024-03-12 19:00:00,South Campus,Business,Technology and IT Support,Limited book availability,Medium,Open,Library Services,21,2.19,4,M,2024-03-12,March,Tuesday,19
+2024-01-17 21:00:00,Main Campus,Sciences,Health and Wellness,Counseling services overcrowded,Low,Resolved,Health Services,27,0.01,5,M,2024-01-17,January,Wednesday,21
+2024-02-28 07:00:00,South Campus,Business,Library and Learning Resources,Computer lab systems outdated,Low,Resolved,IT Department,21,1.68,2,F,2024-02-28,February,Wednesday,7
+2024-02-21 10:00:00,South Campus,Sciences,Administrative and Registration,Poor quality of online course materials,Low,In Progress,Academic Affairs,21,1.96,1,F,2024-02-21,February,Wednesday,10
+2024-04-25 15:00:00,Main Campus,Sciences,Student Services and Facilities,Need for better academic counseling services,Low,In Progress,Academic Affairs,23,1.85,3,M,2024-04-25,April,Thursday,15
+2024-01-18 06:00:00,South Campus,Sciences,Academic Support and Resources,Email and portal access problems,Low,Resolved,IT Department,24,1.24,1,F,2024-01-18,January,Thursday,6
+2024-03-16 15:00:00,Main Campus,Business,Technology and IT Support,Long wait times for health services,Critical,In Progress,Health Services,22,1.28,2,F,2024-03-16,March,Saturday,15
+2024-03-20 05:00:00,North Campus,Engineering,Technology and IT Support,Limited recreational facilities,Medium,Open,Student Services,23,0.94,4,M,2024-03-20,March,Wednesday,5
+2023-09-01 11:00:00,North Campus,Sciences,Student Services and Facilities,Confusion with degree requirements,Low,Resolved,Registrar Office,27,2.88,3,M,2023-09-01,September,Friday,11
+2024-05-01 22:00:00,Main Campus,Engineering,Academic Support and Resources,Counseling services overcrowded,Low,Resolved,Health Services,23,3.7,2,F,2024-05-01,May,Wednesday,22
+2023-12-25 13:00:00,Main Campus,Sciences,Technology and IT Support,Need for better academic counseling services,Low,Resolved,Academic Affairs,20,2.49,1,F,2023-12-25,December,Monday,13
+2023-09-25 11:00:00,Main Campus,Sciences,Academic Support and Resources,Confusion with degree requirements,Low,Resolved,Registrar Office,24,2.18,1,F,2023-09-25,September,Monday,11
+2023-11-02 19:00:00,South Campus,Business,Technology and IT Support,Library hours insufficient,High,Resolved,Library Services,22,3.9,4,M,2023-11-02,November,Thursday,19
+2024-01-22 17:00:00,North Campus,Business,Library and Learning Resources,Counseling services overcrowded,Low,In Progress,Health Services,26,3.91,1,F,2024-01-22,January,Monday,17
+2023-11-15 20:00:00,North Campus,Sciences,Administrative and Registration,Inadequate access to lab resources,Low,In Progress,Academic Affairs,22,2.24,4,M,2023-11-15,November,Wednesday,20
+2024-01-19 17:00:00,North Campus,Computer Science,Student Services and Facilities,Mental health support inadequate,Critical,Open,Health Services,20,1.43,3,M,2024-01-19,January,Friday,17
+2024-03-07 20:00:00,Main Campus,Computer Science,Technology and IT Support,Online learning platform issues,High,Open,IT Department,27,4.3,2,F,2024-03-07,March,Thursday,20
+2023-08-21 01:00:00,Main Campus,Computer Science,Technology and IT Support,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,22,0.01,1,F,2023-08-21,August,Monday,1
+2023-09-24 07:00:00,Main Campus,Sciences,Health and Wellness,Difficulty finding required course materials,Low,Resolved,Academic Affairs,20,1.65,4,M,2023-09-24,September,Sunday,7
+2023-10-09 18:00:00,South Campus,Engineering,Library and Learning Resources,Need for more study spaces,Low,Closed,Student Services,22,1.67,3,M,2023-10-09,October,Monday,18
+2023-09-30 02:00:00,North Campus,Engineering,Academic Support and Resources,Financial aid processing delays,Low,Resolved,Registrar Office,25,2.46,2,F,2023-09-30,September,Saturday,2
+2023-12-07 21:00:00,North Campus,Sciences,Administrative and Registration,Admission process was unclear,Medium,In Progress,Registrar Office,24,2.09,3,M,2023-12-07,December,Thursday,21
+2023-08-24 23:00:00,North Campus,Computer Science,Technology and IT Support,Wi-Fi connection unstable,Low,Open,IT Department,21,0.08,5,M,2023-08-24,August,Thursday,23
+2024-03-03 09:00:00,North Campus,Computer Science,Library and Learning Resources,Email and portal access problems,Low,Resolved,IT Department,20,3.59,1,F,2024-03-03,March,Sunday,9
+2024-03-10 04:00:00,North Campus,Business,Academic Support and Resources,Financial aid processing delays,Low,Resolved,Registrar Office,23,0.46,4,M,2024-03-10,March,Sunday,4
+2023-12-05 06:00:00,South Campus,Computer Science,Technology and IT Support,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,20,4.69,1,F,2023-12-05,December,Tuesday,6
+2023-12-05 13:00:00,Main Campus,Computer Science,Health and Wellness,Counseling services overcrowded,Low,Resolved,Health Services,20,0.92,1,F,2023-12-05,December,Tuesday,13
+2024-02-15 04:00:00,South Campus,Business,Administrative and Registration,Email and portal access problems,Low,Resolved,IT Department,18,0.01,1,F,2024-02-15,February,Thursday,4
+2024-05-02 13:00:00,North Campus,Engineering,Academic Support and Resources,Need for more study spaces,Low,Resolved,Student Services,21,2.88,1,F,2024-05-02,May,Thursday,13
+2024-05-02 07:00:00,North Campus,Sciences,Library and Learning Resources,Limited office hours for instructors,Medium,Open,Academic Affairs,21,2.45,4,M,2024-05-02,May,Thursday,7
+2023-10-03 01:00:00,Main Campus,Computer Science,Academic Support and Resources,Counseling services overcrowded,Low,Resolved,Health Services,27,3.48,4,M,2023-10-03,October,Tuesday,1
+2023-10-17 07:00:00,South Campus,Business,Student Services and Facilities,Admission process was unclear,Medium,Resolved,Registrar Office,24,2.3,2,F,2023-10-17,October,Tuesday,7
+2023-11-26 05:00:00,North Campus,Liberal Arts,Student Services and Facilities,Campus safety concerns,Critical,In Progress,Health Services,18,2.99,2,F,2023-11-26,November,Sunday,5
+2024-05-11 09:00:00,South Campus,Liberal Arts,Library and Learning Resources,Technical support response time slow,Medium,Resolved,IT Department,16,2.71,4,F,2024-05-11,May,Saturday,9
+2023-12-27 03:00:00,South Campus,Business,Health and Wellness,Need for better academic counseling services,Low,In Progress,Academic Affairs,23,2.22,1,F,2023-12-27,December,Wednesday,3
+2024-05-08 06:00:00,North Campus,Engineering,Technology and IT Support,Computer lab systems outdated,Low,Closed,IT Department,19,1.07,5,M,2024-05-08,May,Wednesday,6
+2024-03-12 15:00:00,Main Campus,Sciences,Student Services and Facilities,Inadequate access to lab resources,Low,Open,Academic Affairs,18,3.07,5,M,2024-03-12,March,Tuesday,15
+2024-03-26 17:00:00,Main Campus,Sciences,Health and Wellness,Limited office hours for instructors,Medium,Resolved,Academic Affairs,27,1.61,2,F,2024-03-26,March,Tuesday,17
+2023-11-16 12:00:00,Main Campus,Liberal Arts,Health and Wellness,Limited office hours for instructors,Medium,In Progress,Academic Affairs,16,3.41,2,F,2023-11-16,November,Thursday,12
+2023-08-17 22:00:00,South Campus,Engineering,Technology and IT Support,VPN connectivity issues,High,Resolved,IT Department,17,1.84,2,F,2023-08-17,August,Thursday,22
+2023-12-22 05:00:00,North Campus,Engineering,Library and Learning Resources,Library hours insufficient,High,In Progress,Library Services,23,0.01,1,F,2023-12-22,December,Friday,5
+2024-02-03 19:00:00,North Campus,Sciences,Academic Support and Resources,VPN connectivity issues,High,In Progress,IT Department,27,2.75,3,M,2024-02-03,February,Saturday,19
+2023-08-21 04:00:00,North Campus,Engineering,Health and Wellness,Need for more study spaces,Low,Resolved,Student Services,19,2.19,1,F,2023-08-21,August,Monday,4
+2024-03-28 23:00:00,North Campus,Computer Science,Academic Support and Resources,Database access limited,Medium,Closed,Library Services,16,3.12,1,F,2024-03-28,March,Thursday,23
+2024-03-11 20:00:00,South Campus,Business,Health and Wellness,Counseling services overcrowded,Low,In Progress,Health Services,20,0.3,2,F,2024-03-11,March,Monday,20
+2023-10-19 12:00:00,North Campus,Sciences,Student Services and Facilities,Confusion with degree requirements,Low,Open,Registrar Office,22,3.22,2,F,2023-10-19,October,Thursday,12
+2023-09-29 23:00:00,South Campus,Computer Science,Student Services and Facilities,Inadequate access to lab resources,Low,Resolved,Academic Affairs,16,1.88,2,F,2023-09-29,September,Friday,23
+2024-04-06 09:00:00,South Campus,Liberal Arts,Student Services and Facilities,Wi-Fi connection unstable,Low,Resolved,IT Department,19,3.24,2,F,2024-04-06,April,Saturday,9
+2023-10-22 02:00:00,North Campus,Business,Health and Wellness,Mental health support inadequate,Critical,Closed,Health Services,17,0.67,4,F,2023-10-22,October,Sunday,2
+2024-04-27 02:00:00,South Campus,Business,Student Services and Facilities,Long wait times for health services,Critical,Open,Health Services,19,2.72,1,F,2024-04-27,April,Saturday,2
+2023-09-18 17:00:00,Main Campus,Liberal Arts,Technology and IT Support,Computer lab systems outdated,Low,Resolved,IT Department,22,2.41,1,F,2023-09-18,September,Monday,17
+2024-04-25 11:00:00,Main Campus,Engineering,Administrative and Registration,Campus facilities in poor condition,Low,In Progress,Student Services,23,2.2,2,F,2024-04-25,April,Thursday,11
+2024-02-29 18:00:00,South Campus,Business,Academic Support and Resources,Campus safety concerns,Critical,In Progress,Health Services,16,2.8,2,F,2024-02-29,February,Thursday,18
+2023-11-04 04:00:00,Main Campus,Liberal Arts,Technology and IT Support,Campus safety concerns,Critical,Resolved,Health Services,25,2.03,1,F,2023-11-04,November,Saturday,4
+2023-08-26 19:00:00,South Campus,Business,Student Services and Facilities,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,17,1.57,4,M,2023-08-26,August,Saturday,19
+2023-12-03 13:00:00,Main Campus,Business,Administrative and Registration,Admission process was unclear,Medium,Resolved,Registrar Office,17,0.88,4,F,2023-12-03,December,Sunday,13
+2023-12-10 21:00:00,South Campus,Engineering,Health and Wellness,Counseling services overcrowded,Low,In Progress,Health Services,23,2.19,5,M,2023-12-10,December,Sunday,21
+2023-09-28 05:00:00,Main Campus,Computer Science,Student Services and Facilities,Mental health support inadequate,Critical,Resolved,Health Services,17,0.63,1,F,2023-09-28,September,Thursday,5
+2024-03-12 21:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Difficulty finding required course materials,Low,Resolved,Academic Affairs,23,1.79,5,M,2024-03-12,March,Tuesday,21
+2024-01-27 19:00:00,Main Campus,Business,Student Services and Facilities,Delayed transcript processing,Medium,Closed,Registrar Office,27,2.48,1,F,2024-01-27,January,Saturday,19
+2023-12-16 09:00:00,South Campus,Computer Science,Library and Learning Resources,Course registration system difficulties,Low,In Progress,Registrar Office,21,4.31,5,M,2023-12-16,December,Saturday,9
+2024-01-13 23:00:00,South Campus,Business,Health and Wellness,Poor quality of online course materials,Low,In Progress,Academic Affairs,27,0.89,1,F,2024-01-13,January,Saturday,23
+2024-04-13 19:00:00,North Campus,Liberal Arts,Health and Wellness,Study area conditions poor,Low,In Progress,Library Services,27,0.63,2,F,2024-04-13,April,Saturday,19
+2024-04-23 19:00:00,Main Campus,Sciences,Health and Wellness,Dormitory maintenance issues,High,Resolved,Student Services,18,0.71,5,M,2024-04-23,April,Tuesday,19
+2024-03-23 23:00:00,North Campus,Liberal Arts,Academic Support and Resources,Limited office hours for instructors,Medium,In Progress,Academic Affairs,22,2.48,1,F,2024-03-23,March,Saturday,23
+2023-09-19 23:00:00,Main Campus,Engineering,Administrative and Registration,Counseling services overcrowded,Low,Closed,Health Services,21,4.6,3,M,2023-09-19,September,Tuesday,23
+2023-11-26 07:00:00,North Campus,Computer Science,Technology and IT Support,Course registration system difficulties,Low,In Progress,Registrar Office,22,4.58,4,M,2023-11-26,November,Sunday,7
+2023-12-09 14:00:00,North Campus,Sciences,Academic Support and Resources,Interlibrary loan process slow,Medium,Resolved,Library Services,17,1.64,3,M,2023-12-09,December,Saturday,14
+2024-02-13 15:00:00,North Campus,Engineering,Student Services and Facilities,Gym and sports facility issues,High,Open,Student Services,26,1.73,1,F,2024-02-13,February,Tuesday,15
+2024-01-16 16:00:00,Main Campus,Sciences,Student Services and Facilities,Admission process was unclear,Medium,Resolved,Registrar Office,17,3.94,2,F,2024-01-16,January,Tuesday,16
+2023-12-28 01:00:00,Main Campus,Business,Administrative and Registration,Gym and sports facility issues,High,Closed,Student Services,22,3.16,4,M,2023-12-28,December,Thursday,1
+2024-04-24 08:00:00,Main Campus,Business,Library and Learning Resources,Dormitory maintenance issues,High,In Progress,Student Services,22,1.78,3,M,2024-04-24,April,Wednesday,8
+2024-01-18 10:00:00,South Campus,Sciences,Academic Support and Resources,Computer lab systems outdated,Low,Closed,IT Department,16,1.84,3,M,2024-01-18,January,Thursday,10
+2023-10-19 23:00:00,South Campus,Engineering,Administrative and Registration,Interlibrary loan process slow,Medium,Resolved,Library Services,19,3.11,4,M,2023-10-19,October,Thursday,23
+2023-11-26 07:00:00,Main Campus,Sciences,Academic Support and Resources,Campus safety concerns,Critical,Closed,Health Services,21,4.19,3,M,2023-11-26,November,Sunday,7
+2023-11-05 04:00:00,Main Campus,Business,Library and Learning Resources,Library hours insufficient,High,Resolved,Library Services,20,4.97,4,M,2023-11-05,November,Sunday,4
+2024-02-14 06:00:00,North Campus,Business,Academic Support and Resources,Insufficient parking on campus,High,In Progress,Student Services,22,2.68,2,F,2024-02-14,February,Wednesday,6
+2024-04-13 00:00:00,South Campus,Sciences,Administrative and Registration,Admission process was unclear,Medium,In Progress,Registrar Office,27,0.61,1,F,2024-04-13,April,Saturday,0
+2024-04-09 21:00:00,Main Campus,Sciences,Technology and IT Support,Email and portal access problems,Low,In Progress,IT Department,18,0.01,1,F,2024-04-09,April,Tuesday,21
+2024-01-04 07:00:00,North Campus,Sciences,Technology and IT Support,Financial aid processing delays,Low,Open,Registrar Office,24,2.29,5,M,2024-01-04,January,Thursday,7
+2023-09-18 01:00:00,North Campus,Sciences,Administrative and Registration,Need for better academic counseling services,Low,Open,Academic Affairs,26,2.38,1,F,2023-09-18,September,Monday,1
+2024-04-02 06:00:00,North Campus,Business,Student Services and Facilities,Interlibrary loan process slow,Medium,Open,Library Services,22,1.83,3,M,2024-04-02,April,Tuesday,6
+2024-05-03 00:00:00,South Campus,Business,Administrative and Registration,Need for more study spaces,Low,Resolved,Student Services,27,1.36,2,F,2024-05-03,May,Friday,0
+2023-11-16 03:00:00,South Campus,Liberal Arts,Student Services and Facilities,Email and portal access problems,Low,Resolved,IT Department,24,1.57,5,M,2023-11-16,November,Thursday,3
+2024-03-21 20:00:00,South Campus,Computer Science,Academic Support and Resources,Study area conditions poor,Low,Open,Library Services,23,1.64,2,F,2024-03-21,March,Thursday,20
+2024-01-26 05:00:00,Main Campus,Engineering,Administrative and Registration,Limited book availability,Medium,Open,Library Services,22,2.76,1,F,2024-01-26,January,Friday,5
+2024-02-11 18:00:00,South Campus,Liberal Arts,Student Services and Facilities,Dormitory maintenance issues,High,Resolved,Student Services,24,3.36,1,F,2024-02-11,February,Sunday,18
+2023-12-10 14:00:00,South Campus,Liberal Arts,Student Services and Facilities,Poor quality of online course materials,Low,In Progress,Academic Affairs,19,3.3,5,M,2023-12-10,December,Sunday,14
+2023-11-16 23:00:00,North Campus,Sciences,Health and Wellness,Online learning platform issues,High,Open,IT Department,21,1.95,4,M,2023-11-16,November,Thursday,23
+2023-12-06 22:00:00,Main Campus,Business,Library and Learning Resources,Email and portal access problems,Low,In Progress,IT Department,18,4.97,1,F,2023-12-06,December,Wednesday,22
+2023-09-05 17:00:00,South Campus,Business,Health and Wellness,Interlibrary loan process slow,Medium,Closed,Library Services,20,0.52,1,F,2023-09-05,September,Tuesday,17
+2023-12-27 04:00:00,Main Campus,Engineering,Academic Support and Resources,Struggling with course content difficulty,Low,Resolved,Academic Affairs,22,2.18,5,M,2023-12-27,December,Wednesday,4
+2024-03-07 02:00:00,Main Campus,Engineering,Academic Support and Resources,Inadequate access to lab resources,Low,In Progress,Academic Affairs,16,3.24,5,M,2024-03-07,March,Thursday,2
+2024-03-04 04:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Need for better academic counseling services,Low,Resolved,Academic Affairs,25,0.88,4,M,2024-03-04,March,Monday,4
+2023-09-02 18:00:00,South Campus,Sciences,Student Services and Facilities,Wi-Fi connection unstable,Low,Resolved,IT Department,25,2.76,5,M,2023-09-02,September,Saturday,18
+2023-08-15 06:00:00,South Campus,Sciences,Academic Support and Resources,Computer lab systems outdated,Low,Resolved,IT Department,19,0.01,5,M,2023-08-15,August,Tuesday,6
+2024-05-03 03:00:00,South Campus,Computer Science,Health and Wellness,Cafeteria food quality concerns,Low,Resolved,Student Services,24,2.07,1,F,2024-05-03,May,Friday,3
+2024-02-17 02:00:00,Main Campus,Engineering,Health and Wellness,Mental health support inadequate,Critical,Resolved,Health Services,19,4.97,2,F,2024-02-17,February,Saturday,2
+2024-01-02 04:00:00,Main Campus,Computer Science,Health and Wellness,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,22,1.07,1,F,2024-01-02,January,Tuesday,4
+2024-01-17 11:00:00,North Campus,Liberal Arts,Student Services and Facilities,Campus facilities in poor condition,Low,Open,Student Services,16,1.0,1,F,2024-01-17,January,Wednesday,11
+2023-12-01 11:00:00,North Campus,Liberal Arts,Academic Support and Resources,Confusion with degree requirements,Low,Resolved,Registrar Office,19,1.3,1,F,2023-12-01,December,Friday,11
+2024-02-08 17:00:00,South Campus,Business,Library and Learning Resources,Financial aid processing delays,Low,Resolved,Registrar Office,23,2.99,3,M,2024-02-08,February,Thursday,17
+2023-11-13 18:00:00,Main Campus,Computer Science,Student Services and Facilities,Database access limited,Medium,Resolved,Library Services,23,4.19,1,F,2023-11-13,November,Monday,18
+2023-11-10 21:00:00,Main Campus,Business,Health and Wellness,Dormitory maintenance issues,High,Resolved,Student Services,16,1.42,2,F,2023-11-10,November,Friday,21
+2023-12-10 00:00:00,South Campus,Sciences,Technology and IT Support,Database access limited,Medium,Closed,Library Services,24,0.97,5,M,2023-12-10,December,Sunday,0
+2024-03-09 16:00:00,North Campus,Computer Science,Health and Wellness,Limited office hours for instructors,Medium,In Progress,Academic Affairs,19,0.44,2,F,2024-03-09,March,Saturday,16
+2024-04-28 19:00:00,Main Campus,Computer Science,Student Services and Facilities,Medical services not open enough hours,Critical,Resolved,Health Services,22,3.34,1,F,2024-04-28,April,Sunday,19
+2024-03-23 14:00:00,North Campus,Business,Student Services and Facilities,Dormitory maintenance issues,High,Resolved,Student Services,22,1.27,2,F,2024-03-23,March,Saturday,14
+2023-12-06 07:00:00,South Campus,Business,Health and Wellness,Confusion with degree requirements,Low,Closed,Registrar Office,17,3.16,4,M,2023-12-06,December,Wednesday,7
+2024-02-12 16:00:00,North Campus,Computer Science,Library and Learning Resources,Gym and sports facility issues,High,Closed,Student Services,16,2.6,2,F,2024-02-12,February,Monday,16
+2023-11-07 07:00:00,Main Campus,Sciences,Library and Learning Resources,Limited recreational facilities,Medium,Resolved,Student Services,20,3.3,4,M,2023-11-07,November,Tuesday,7
+2024-04-23 06:00:00,Main Campus,Business,Academic Support and Resources,Confusion with degree requirements,Low,In Progress,Registrar Office,24,3.96,2,F,2024-04-23,April,Tuesday,6
+2023-08-30 06:00:00,Main Campus,Engineering,Academic Support and Resources,Struggling with course content difficulty,Low,Resolved,Academic Affairs,19,0.88,4,M,2023-08-30,August,Wednesday,6
+2023-11-07 08:00:00,North Campus,Computer Science,Library and Learning Resources,Medical services not open enough hours,Critical,Open,Health Services,20,1.03,4,F,2023-11-07,November,Tuesday,8
+2023-09-06 02:00:00,Main Campus,Business,Technology and IT Support,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,22,1.49,1,F,2023-09-06,September,Wednesday,2
+2024-01-20 06:00:00,Main Campus,Engineering,Library and Learning Resources,Unclear graduation requirements,Medium,Closed,Registrar Office,18,1.41,3,M,2024-01-20,January,Saturday,6
+2024-01-10 06:00:00,Main Campus,Sciences,Academic Support and Resources,Limited office hours for instructors,Medium,In Progress,Academic Affairs,23,2.49,1,F,2024-01-10,January,Wednesday,6
+2023-08-31 12:00:00,North Campus,Computer Science,Health and Wellness,Technical support response time slow,Medium,Resolved,IT Department,24,2.71,4,M,2023-08-31,August,Thursday,12
+2024-01-10 07:00:00,South Campus,Liberal Arts,Technology and IT Support,Course registration system difficulties,Low,Resolved,Registrar Office,23,3.76,1,F,2024-01-10,January,Wednesday,7
+2023-10-06 14:00:00,North Campus,Computer Science,Health and Wellness,Technical support response time slow,Medium,Resolved,IT Department,26,1.22,5,M,2023-10-06,October,Friday,14
+2024-01-19 13:00:00,North Campus,Business,Administrative and Registration,VPN connectivity issues,High,In Progress,IT Department,23,1.9,2,F,2024-01-19,January,Friday,13
+2023-08-30 17:00:00,North Campus,Engineering,Academic Support and Resources,Financial aid processing delays,Low,Resolved,Registrar Office,20,1.27,3,M,2023-08-30,August,Wednesday,17
+2024-03-31 22:00:00,South Campus,Engineering,Health and Wellness,Campus facilities in poor condition,Low,Closed,Student Services,16,1.32,1,F,2024-03-31,March,Sunday,22
+2023-09-24 16:00:00,Main Campus,Sciences,Student Services and Facilities,Unclear graduation requirements,Medium,Closed,Registrar Office,21,1.99,4,M,2023-09-24,September,Sunday,16
+2023-11-20 19:00:00,Main Campus,Liberal Arts,Administrative and Registration,Interlibrary loan process slow,Medium,In Progress,Library Services,21,1.67,5,M,2023-11-20,November,Monday,19
+2023-11-26 12:00:00,North Campus,Business,Library and Learning Resources,Financial aid processing delays,Low,Resolved,Registrar Office,26,2.62,1,F,2023-11-26,November,Sunday,12
+2023-11-17 01:00:00,South Campus,Computer Science,Administrative and Registration,Limited recreational facilities,Medium,Resolved,Student Services,25,2.54,3,M,2023-11-17,November,Friday,1
+2024-01-21 19:00:00,South Campus,Business,Technology and IT Support,Limited office hours for instructors,Medium,In Progress,Academic Affairs,27,1.92,3,M,2024-01-21,January,Sunday,19
+2024-03-20 12:00:00,Main Campus,Engineering,Academic Support and Resources,Insufficient tutoring and academic support,High,Open,Academic Affairs,17,2.15,1,F,2024-03-20,March,Wednesday,12
+2023-08-21 22:00:00,North Campus,Computer Science,Health and Wellness,Delayed transcript processing,Medium,In Progress,Registrar Office,21,1.35,4,M,2023-08-21,August,Monday,22
+2024-02-02 10:00:00,South Campus,Liberal Arts,Library and Learning Resources,Confusion with degree requirements,Low,Closed,Registrar Office,19,4.04,1,F,2024-02-02,February,Friday,10
+2023-12-01 12:00:00,North Campus,Liberal Arts,Academic Support and Resources,Long wait times for health services,Critical,Resolved,Health Services,23,1.63,1,F,2023-12-01,December,Friday,12
+2023-10-10 09:00:00,South Campus,Computer Science,Academic Support and Resources,Campus safety concerns,Critical,Resolved,Health Services,27,1.0,4,M,2023-10-10,October,Tuesday,9
+2023-12-10 23:00:00,North Campus,Business,Administrative and Registration,Need for better academic counseling services,Low,In Progress,Academic Affairs,19,3.88,2,F,2023-12-10,December,Sunday,23
+2023-08-26 00:00:00,South Campus,Business,Academic Support and Resources,Financial aid processing delays,Low,Resolved,Registrar Office,22,2.97,1,F,2023-08-26,August,Saturday,0
+2024-04-10 23:00:00,North Campus,Sciences,Technology and IT Support,Insufficient parking on campus,High,Open,Student Services,19,1.19,4,M,2024-04-10,April,Wednesday,23
+2023-11-01 06:00:00,Main Campus,Computer Science,Library and Learning Resources,Inadequate access to lab resources,Low,In Progress,Academic Affairs,22,2.25,1,F,2023-11-01,November,Wednesday,6
+2024-05-02 20:00:00,Main Campus,Liberal Arts,Administrative and Registration,Need for better academic counseling services,Low,Resolved,Academic Affairs,23,4.97,4,M,2024-05-02,May,Thursday,20
+2023-11-22 13:00:00,Main Campus,Computer Science,Student Services and Facilities,Difficulty finding required course materials,Low,Open,Academic Affairs,22,2.72,3,M,2023-11-22,November,Wednesday,13
+2023-09-02 16:00:00,South Campus,Business,Administrative and Registration,Wi-Fi connection unstable,Low,Resolved,IT Department,21,2.53,4,M,2023-09-02,September,Saturday,16
+2024-01-17 02:00:00,Main Campus,Liberal Arts,Technology and IT Support,Cafeteria food quality concerns,Low,In Progress,Student Services,22,3.28,1,F,2024-01-17,January,Wednesday,2
+2023-11-01 23:00:00,North Campus,Engineering,Academic Support and Resources,Delayed transcript processing,Medium,Resolved,Registrar Office,25,2.57,1,F,2023-11-01,November,Wednesday,23
+2024-04-20 04:00:00,Main Campus,Liberal Arts,Health and Wellness,Need for better academic counseling services,Low,Resolved,Academic Affairs,22,3.5,4,M,2024-04-20,April,Saturday,4
+2024-04-12 02:00:00,Main Campus,Computer Science,Health and Wellness,Long wait times for health services,Critical,Resolved,Health Services,20,3.54,2,F,2024-04-12,April,Friday,2
+2024-03-29 14:00:00,South Campus,Sciences,Health and Wellness,Registration deadline conflicts,Low,Open,Registrar Office,25,1.28,1,F,2024-03-29,March,Friday,14
+2024-04-02 05:00:00,North Campus,Sciences,Student Services and Facilities,Database access limited,Medium,Open,Library Services,20,1.1,2,F,2024-04-02,April,Tuesday,5
+2023-12-26 01:00:00,Main Campus,Engineering,Technology and IT Support,Struggling with course content difficulty,Low,Closed,Academic Affairs,25,2.77,3,M,2023-12-26,December,Tuesday,1
+2023-11-30 17:00:00,Main Campus,Computer Science,Academic Support and Resources,Library hours insufficient,High,In Progress,Library Services,22,2.24,1,F,2023-11-30,November,Thursday,17
+2023-12-21 09:00:00,Main Campus,Business,Academic Support and Resources,Inadequate access to lab resources,Low,Resolved,Academic Affairs,16,3.4,3,M,2023-12-21,December,Thursday,9
+2024-04-20 00:00:00,North Campus,Computer Science,Library and Learning Resources,Campus safety concerns,Critical,Closed,Health Services,21,1.74,3,M,2024-04-20,April,Saturday,0
+2023-12-18 11:00:00,Main Campus,Computer Science,Technology and IT Support,Delayed transcript processing,Medium,In Progress,Registrar Office,18,0.37,2,F,2023-12-18,December,Monday,11
+2024-03-01 15:00:00,North Campus,Computer Science,Academic Support and Resources,Dormitory maintenance issues,High,In Progress,Student Services,17,2.36,1,F,2024-03-01,March,Friday,15
+2024-05-13 10:00:00,North Campus,Computer Science,Student Services and Facilities,Database access limited,Medium,Resolved,Library Services,18,0.85,2,F,2024-05-13,May,Monday,10
+2024-04-08 00:00:00,North Campus,Computer Science,Academic Support and Resources,Interlibrary loan process slow,Medium,Closed,Library Services,19,1.11,3,M,2024-04-08,April,Monday,0
+2024-01-14 05:00:00,South Campus,Sciences,Student Services and Facilities,Limited office hours for instructors,Medium,Closed,Academic Affairs,25,1.12,4,M,2024-01-14,January,Sunday,5
+2023-11-12 09:00:00,Main Campus,Engineering,Student Services and Facilities,Study area conditions poor,Low,Resolved,Library Services,18,2.71,3,M,2023-11-12,November,Sunday,9
+2024-04-20 05:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Long wait times for health services,Critical,Resolved,Health Services,17,1.94,5,M,2024-04-20,April,Saturday,5
+2024-01-11 05:00:00,South Campus,Sciences,Administrative and Registration,Technical support response time slow,Medium,Open,IT Department,16,2.33,4,M,2024-01-11,January,Thursday,5
+2024-01-10 00:00:00,North Campus,Sciences,Technology and IT Support,Registration deadline conflicts,Low,Closed,Registrar Office,19,0.74,1,F,2024-01-10,January,Wednesday,0
+2024-01-20 01:00:00,North Campus,Business,Health and Wellness,VPN connectivity issues,High,Closed,IT Department,19,0.01,5,M,2024-01-20,January,Saturday,1
+2023-12-16 01:00:00,North Campus,Sciences,Health and Wellness,Technical support response time slow,Medium,In Progress,IT Department,20,3.78,3,M,2023-12-16,December,Saturday,1
+2024-02-20 03:00:00,South Campus,Computer Science,Academic Support and Resources,Technical support response time slow,Medium,In Progress,IT Department,27,3.54,2,F,2024-02-20,February,Tuesday,3
+2024-01-12 21:00:00,South Campus,Sciences,Library and Learning Resources,Confusion with degree requirements,Low,Open,Registrar Office,18,3.68,5,M,2024-01-12,January,Friday,21
+2023-08-25 22:00:00,North Campus,Computer Science,Technology and IT Support,Study area conditions poor,Low,In Progress,Library Services,27,3.68,3,M,2023-08-25,August,Friday,22
+2024-03-26 08:00:00,South Campus,Computer Science,Technology and IT Support,Admission process was unclear,Medium,Resolved,Registrar Office,26,3.02,4,F,2024-03-26,March,Tuesday,8
+2024-03-12 00:00:00,South Campus,Computer Science,Technology and IT Support,Limited book availability,Medium,In Progress,Library Services,23,4.6,1,F,2024-03-12,March,Tuesday,0
+2024-04-30 03:00:00,Main Campus,Engineering,Library and Learning Resources,Online learning platform issues,High,Open,IT Department,23,3.21,2,F,2024-04-30,April,Tuesday,3
+2024-01-21 02:00:00,North Campus,Liberal Arts,Health and Wellness,Campus facilities in poor condition,Low,In Progress,Student Services,21,1.99,1,F,2024-01-21,January,Sunday,2
+2024-03-05 19:00:00,North Campus,Engineering,Academic Support and Resources,Need for better academic counseling services,Low,Closed,Academic Affairs,24,3.43,5,M,2024-03-05,March,Tuesday,19
+2023-10-18 22:00:00,South Campus,Engineering,Health and Wellness,Computer lab systems outdated,Low,Resolved,IT Department,18,1.57,1,F,2023-10-18,October,Wednesday,22
+2023-09-02 21:00:00,Main Campus,Engineering,Technology and IT Support,Limited recreational facilities,Medium,Resolved,Student Services,20,2.6,4,M,2023-09-02,September,Saturday,21
+2023-10-07 10:00:00,North Campus,Business,Technology and IT Support,Campus facilities in poor condition,Low,In Progress,Student Services,25,2.4,5,M,2023-10-07,October,Saturday,10
+2024-01-11 21:00:00,South Campus,Engineering,Administrative and Registration,Library hours insufficient,High,Closed,Library Services,22,1.78,4,M,2024-01-11,January,Thursday,21
+2023-10-10 16:00:00,North Campus,Computer Science,Academic Support and Resources,Poor quality of online course materials,Low,Resolved,Academic Affairs,26,2.06,2,F,2023-10-10,October,Tuesday,16
+2024-03-07 11:00:00,South Campus,Computer Science,Student Services and Facilities,Inadequate access to lab resources,Low,In Progress,Academic Affairs,24,3.29,1,F,2024-03-07,March,Thursday,11
+2023-09-16 23:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Mental health support inadequate,Critical,Open,Health Services,24,1.54,2,F,2023-09-16,September,Saturday,23
+2024-02-21 17:00:00,Main Campus,Liberal Arts,Health and Wellness,Campus safety concerns,Critical,Open,Health Services,21,2.33,4,M,2024-02-21,February,Wednesday,17
+2023-08-29 11:00:00,South Campus,Computer Science,Administrative and Registration,Long wait times for health services,Critical,Open,Health Services,23,1.23,5,M,2023-08-29,August,Tuesday,11
+2024-01-18 18:00:00,South Campus,Sciences,Student Services and Facilities,Library hours insufficient,High,Resolved,Library Services,23,1.18,2,F,2024-01-18,January,Thursday,18
+2024-01-26 00:00:00,North Campus,Sciences,Student Services and Facilities,Insufficient parking on campus,High,Closed,Student Services,18,2.46,1,F,2024-01-26,January,Friday,0
+2024-02-23 02:00:00,Main Campus,Engineering,Library and Learning Resources,Financial aid processing delays,Low,Resolved,Registrar Office,21,1.1,3,M,2024-02-23,February,Friday,2
+2024-01-23 02:00:00,Main Campus,Computer Science,Health and Wellness,Insufficient parking on campus,High,Resolved,Student Services,20,3.36,1,F,2024-01-23,January,Tuesday,2
+2024-04-15 00:00:00,North Campus,Computer Science,Technology and IT Support,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,19,1.74,1,F,2024-04-15,April,Monday,0
+2024-02-11 09:00:00,North Campus,Business,Administrative and Registration,Counseling services overcrowded,Low,Resolved,Health Services,26,2.95,5,M,2024-02-11,February,Sunday,9
+2024-03-24 11:00:00,South Campus,Liberal Arts,Health and Wellness,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,22,1.31,2,F,2024-03-24,March,Sunday,11
+2023-10-19 17:00:00,Main Campus,Liberal Arts,Student Services and Facilities,Medical services not open enough hours,Critical,In Progress,Health Services,25,2.44,5,M,2023-10-19,October,Thursday,17
+2024-02-01 05:00:00,South Campus,Computer Science,Technology and IT Support,Mental health support inadequate,Critical,In Progress,Health Services,18,1.99,2,F,2024-02-01,February,Thursday,5
+2023-11-28 23:00:00,South Campus,Computer Science,Administrative and Registration,Cafeteria food quality concerns,Low,Resolved,Student Services,18,2.75,4,M,2023-11-28,November,Tuesday,23
+2024-03-11 06:00:00,Main Campus,Engineering,Administrative and Registration,Limited book availability,Medium,Open,Library Services,17,0.6,1,F,2024-03-11,March,Monday,6
+2023-12-23 06:00:00,Main Campus,Business,Health and Wellness,Long wait times for health services,Critical,In Progress,Health Services,20,0.76,2,F,2023-12-23,December,Saturday,6
+2024-05-12 20:00:00,South Campus,Business,Library and Learning Resources,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,21,2.06,4,F,2024-05-12,May,Sunday,20
+2024-03-08 01:00:00,North Campus,Engineering,Academic Support and Resources,VPN connectivity issues,High,Closed,IT Department,21,0.24,2,F,2024-03-08,March,Friday,1
+2023-10-02 12:00:00,South Campus,Business,Technology and IT Support,Campus safety concerns,Critical,Resolved,Health Services,16,0.16,1,F,2023-10-02,October,Monday,12
+2024-02-27 15:00:00,South Campus,Engineering,Student Services and Facilities,Inadequate access to lab resources,Low,Resolved,Academic Affairs,19,1.15,3,M,2024-02-27,February,Tuesday,15
+2024-03-23 20:00:00,South Campus,Liberal Arts,Administrative and Registration,Wi-Fi connection unstable,Low,Resolved,IT Department,20,2.51,1,F,2024-03-23,March,Saturday,20
+2024-01-03 00:00:00,South Campus,Sciences,Academic Support and Resources,Campus safety concerns,Critical,Resolved,Health Services,20,0.19,3,M,2024-01-03,January,Wednesday,0
+2024-03-16 09:00:00,South Campus,Business,Student Services and Facilities,Counseling services overcrowded,Low,Resolved,Health Services,22,1.22,1,F,2024-03-16,March,Saturday,9
+2024-03-09 15:00:00,Main Campus,Computer Science,Administrative and Registration,Registration deadline conflicts,Low,Resolved,Registrar Office,23,1.96,3,M,2024-03-09,March,Saturday,15
+2024-03-12 17:00:00,North Campus,Computer Science,Academic Support and Resources,Computer lab systems outdated,Low,Resolved,IT Department,19,2.84,3,M,2024-03-12,March,Tuesday,17
+2024-03-06 04:00:00,Main Campus,Liberal Arts,Administrative and Registration,Email and portal access problems,Low,Resolved,IT Department,22,4.16,2,F,2024-03-06,March,Wednesday,4
+2023-11-17 06:00:00,North Campus,Computer Science,Library and Learning Resources,Inadequate access to lab resources,Low,Resolved,Academic Affairs,18,2.57,2,F,2023-11-17,November,Friday,6
+2024-04-12 01:00:00,South Campus,Business,Academic Support and Resources,Admission process was unclear,Medium,Resolved,Registrar Office,22,0.01,3,M,2024-04-12,April,Friday,1
+2023-10-01 01:00:00,South Campus,Computer Science,Technology and IT Support,Database access limited,Medium,Open,Library Services,20,0.5,2,F,2023-10-01,October,Sunday,1
+2023-12-07 17:00:00,North Campus,Computer Science,Administrative and Registration,Library hours insufficient,High,Open,Library Services,18,3.33,2,F,2023-12-07,December,Thursday,17
+2024-01-04 02:00:00,North Campus,Computer Science,Health and Wellness,Study area conditions poor,Low,Open,Library Services,18,0.04,1,F,2024-01-04,January,Thursday,2
+2023-08-28 08:00:00,South Campus,Business,Student Services and Facilities,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,22,0.41,1,F,2023-08-28,August,Monday,8
+2024-02-21 23:00:00,North Campus,Sciences,Academic Support and Resources,VPN connectivity issues,High,In Progress,IT Department,21,2.57,2,F,2024-02-21,February,Wednesday,23
+2024-04-21 17:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Struggling with course content difficulty,Low,In Progress,Academic Affairs,17,1.42,2,F,2024-04-21,April,Sunday,17
+2023-12-19 06:00:00,North Campus,Engineering,Academic Support and Resources,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,20,4.03,2,F,2023-12-19,December,Tuesday,6
+2023-11-27 09:00:00,South Campus,Liberal Arts,Academic Support and Resources,Insufficient tutoring and academic support,High,In Progress,Academic Affairs,20,4.41,1,F,2023-11-27,November,Monday,9
+2024-01-29 04:00:00,North Campus,Engineering,Health and Wellness,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,17,3.41,1,F,2024-01-29,January,Monday,4
+2024-04-12 00:00:00,Main Campus,Engineering,Library and Learning Resources,Database access limited,Medium,In Progress,Library Services,24,1.3,1,F,2024-04-12,April,Friday,0
+2023-08-31 23:00:00,Main Campus,Sciences,Technology and IT Support,Campus facilities in poor condition,Low,Closed,Student Services,22,3.31,1,F,2023-08-31,August,Thursday,23
+2024-04-28 23:00:00,South Campus,Engineering,Health and Wellness,Wi-Fi connection unstable,Low,Resolved,IT Department,20,1.14,1,F,2024-04-28,April,Sunday,23
+2024-04-13 03:00:00,North Campus,Business,Academic Support and Resources,Struggling with course content difficulty,Low,Resolved,Academic Affairs,21,3.68,4,M,2024-04-13,April,Saturday,3
+2024-02-05 01:00:00,Main Campus,Computer Science,Student Services and Facilities,Email and portal access problems,Low,Resolved,IT Department,23,2.48,5,M,2024-02-05,February,Monday,1
+2023-11-20 04:00:00,North Campus,Liberal Arts,Student Services and Facilities,Computer lab systems outdated,Low,Resolved,IT Department,19,2.87,1,F,2023-11-20,November,Monday,4
+2023-08-18 06:00:00,South Campus,Business,Student Services and Facilities,Struggling with course content difficulty,Low,Open,Academic Affairs,20,2.28,5,M,2023-08-18,August,Friday,6
+2023-12-12 22:00:00,South Campus,Business,Administrative and Registration,Difficulty finding required course materials,Low,Open,Academic Affairs,26,2.37,5,M,2023-12-12,December,Tuesday,22
+2023-12-25 09:00:00,South Campus,Business,Administrative and Registration,Financial aid processing delays,Low,Open,Registrar Office,23,0.16,4,F,2023-12-25,December,Monday,9
+2024-05-06 17:00:00,South Campus,Engineering,Student Services and Facilities,Email and portal access problems,Low,Resolved,IT Department,19,4.04,5,M,2024-05-06,May,Monday,17
+2023-10-31 20:00:00,North Campus,Sciences,Student Services and Facilities,Online learning platform issues,High,Resolved,IT Department,21,0.87,4,M,2023-10-31,October,Tuesday,20
+2024-05-09 20:00:00,North Campus,Engineering,Technology and IT Support,Insufficient parking on campus,High,Resolved,Student Services,18,3.4,4,M,2024-05-09,May,Thursday,20
+2023-10-22 11:00:00,North Campus,Computer Science,Technology and IT Support,Email and portal access problems,Low,Open,IT Department,20,2.87,2,F,2023-10-22,October,Sunday,11
+2024-05-05 14:00:00,North Campus,Computer Science,Student Services and Facilities,Database access limited,Medium,Resolved,Library Services,17,2.07,2,F,2024-05-05,May,Sunday,14
+2023-11-28 22:00:00,North Campus,Business,Library and Learning Resources,Need for better academic counseling services,Low,Resolved,Academic Affairs,25,0.76,1,F,2023-11-28,November,Tuesday,22
+2024-01-01 03:00:00,Main Campus,Sciences,Library and Learning Resources,Mental health support inadequate,Critical,Resolved,Health Services,23,1.93,2,F,2024-01-01,January,Monday,3
+2023-11-27 16:00:00,Main Campus,Liberal Arts,Student Services and Facilities,Limited office hours for instructors,Medium,Resolved,Academic Affairs,20,2.61,4,M,2023-11-27,November,Monday,16
+2023-10-31 05:00:00,Main Campus,Engineering,Student Services and Facilities,Long wait times for health services,Critical,In Progress,Health Services,24,1.98,3,M,2023-10-31,October,Tuesday,5
+2023-09-23 07:00:00,South Campus,Business,Administrative and Registration,Delayed transcript processing,Medium,Resolved,Registrar Office,21,2.67,1,F,2023-09-23,September,Saturday,7
+2023-12-14 02:00:00,Main Campus,Computer Science,Library and Learning Resources,Registration deadline conflicts,Low,Resolved,Registrar Office,17,4.13,1,F,2023-12-14,December,Thursday,2
+2023-10-29 22:00:00,South Campus,Liberal Arts,Library and Learning Resources,Email and portal access problems,Low,In Progress,IT Department,20,2.61,1,F,2023-10-29,October,Sunday,22
+2023-09-28 13:00:00,North Campus,Engineering,Academic Support and Resources,Gym and sports facility issues,High,In Progress,Student Services,22,1.28,1,F,2023-09-28,September,Thursday,13
+2024-03-05 07:00:00,Main Campus,Computer Science,Administrative and Registration,Struggling with course content difficulty,Low,Resolved,Academic Affairs,18,2.74,2,F,2024-03-05,March,Tuesday,7
+2024-04-27 01:00:00,Main Campus,Liberal Arts,Health and Wellness,VPN connectivity issues,High,Resolved,IT Department,22,0.01,2,F,2024-04-27,April,Saturday,1
+2024-02-18 00:00:00,North Campus,Business,Administrative and Registration,Interlibrary loan process slow,Medium,Resolved,Library Services,19,0.82,2,F,2024-02-18,February,Sunday,0
+2023-09-29 13:00:00,North Campus,Computer Science,Academic Support and Resources,Campus facilities in poor condition,Low,In Progress,Student Services,19,3.17,5,M,2023-09-29,September,Friday,13
+2024-05-08 13:00:00,North Campus,Business,Library and Learning Resources,Inadequate access to lab resources,Low,Resolved,Academic Affairs,18,3.01,2,F,2024-05-08,May,Wednesday,13
+2023-09-14 02:00:00,Main Campus,Liberal Arts,Health and Wellness,Inadequate access to lab resources,Low,Resolved,Academic Affairs,27,3.47,4,M,2023-09-14,September,Thursday,2
+2023-10-05 20:00:00,North Campus,Sciences,Technology and IT Support,Inadequate access to lab resources,Low,Resolved,Academic Affairs,24,1.38,2,F,2023-10-05,October,Thursday,20
+2023-09-10 16:00:00,Main Campus,Sciences,Library and Learning Resources,Course registration system difficulties,Low,Resolved,Registrar Office,20,4.1,4,F,2023-09-10,September,Sunday,16
+2024-04-06 05:00:00,North Campus,Business,Technology and IT Support,Gym and sports facility issues,High,In Progress,Student Services,16,2.41,2,F,2024-04-06,April,Saturday,5
+2024-05-01 10:00:00,South Campus,Computer Science,Administrative and Registration,Interlibrary loan process slow,Medium,Resolved,Library Services,16,3.3,1,F,2024-05-01,May,Wednesday,10
+2023-09-13 06:00:00,North Campus,Sciences,Health and Wellness,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,22,1.75,4,M,2023-09-13,September,Wednesday,6
+2024-03-02 08:00:00,North Campus,Liberal Arts,Academic Support and Resources,Campus safety concerns,Critical,Closed,Health Services,18,0.15,5,M,2024-03-02,March,Saturday,8
+2023-12-14 21:00:00,Main Campus,Liberal Arts,Health and Wellness,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,16,1.93,5,M,2023-12-14,December,Thursday,21
+2023-11-14 02:00:00,Main Campus,Business,Academic Support and Resources,Course registration system difficulties,Low,Resolved,Registrar Office,18,0.05,3,M,2023-11-14,November,Tuesday,2
+2023-11-09 09:00:00,Main Campus,Engineering,Technology and IT Support,Confusion with degree requirements,Low,Resolved,Registrar Office,21,3.74,1,F,2023-11-09,November,Thursday,9
+2023-09-28 18:00:00,Main Campus,Computer Science,Academic Support and Resources,Delayed transcript processing,Medium,Closed,Registrar Office,23,2.24,1,F,2023-09-28,September,Thursday,18
+2023-08-31 20:00:00,North Campus,Engineering,Academic Support and Resources,Need for better academic counseling services,Low,Resolved,Academic Affairs,16,3.4,1,F,2023-08-31,August,Thursday,20
+2024-03-07 07:00:00,North Campus,Computer Science,Academic Support and Resources,Library hours insufficient,High,Resolved,Library Services,18,3.06,5,M,2024-03-07,March,Thursday,7
+2024-01-04 15:00:00,South Campus,Computer Science,Academic Support and Resources,Cafeteria food quality concerns,Low,Resolved,Student Services,22,0.64,2,F,2024-01-04,January,Thursday,15
+2024-02-16 07:00:00,South Campus,Engineering,Technology and IT Support,Cafeteria food quality concerns,Low,Resolved,Student Services,25,4.46,3,M,2024-02-16,February,Friday,7
+2023-09-26 16:00:00,South Campus,Engineering,Technology and IT Support,Delayed transcript processing,Medium,Resolved,Registrar Office,25,2.48,4,M,2023-09-26,September,Tuesday,16
+2024-05-10 19:00:00,North Campus,Sciences,Administrative and Registration,Study area conditions poor,Low,In Progress,Library Services,19,2.46,3,M,2024-05-10,May,Friday,19
+2024-03-08 00:00:00,South Campus,Sciences,Academic Support and Resources,Gym and sports facility issues,High,Resolved,Student Services,21,4.71,2,F,2024-03-08,March,Friday,0
+2023-12-30 21:00:00,North Campus,Sciences,Academic Support and Resources,Need for better academic counseling services,Low,In Progress,Academic Affairs,22,1.51,4,M,2023-12-30,December,Saturday,21
+2023-10-11 01:00:00,North Campus,Engineering,Academic Support and Resources,Course registration system difficulties,Low,Closed,Registrar Office,22,1.16,1,F,2023-10-11,October,Wednesday,1
+2023-10-14 09:00:00,Main Campus,Sciences,Academic Support and Resources,Admission process was unclear,Medium,In Progress,Registrar Office,18,2.6,1,F,2023-10-14,October,Saturday,9
+2024-04-12 01:00:00,Main Campus,Business,Library and Learning Resources,Limited office hours for instructors,Medium,Closed,Academic Affairs,21,1.72,2,F,2024-04-12,April,Friday,1
+2024-01-13 08:00:00,North Campus,Computer Science,Student Services and Facilities,Need for more study spaces,Low,Resolved,Student Services,24,1.64,1,F,2024-01-13,January,Saturday,8
+2023-12-12 01:00:00,South Campus,Sciences,Student Services and Facilities,Difficulty finding required course materials,Low,Resolved,Academic Affairs,16,1.33,3,M,2023-12-12,December,Tuesday,1
+2024-04-17 00:00:00,North Campus,Computer Science,Academic Support and Resources,Insufficient parking on campus,High,Resolved,Student Services,17,3.27,5,M,2024-04-17,April,Wednesday,0
+2023-08-25 21:00:00,South Campus,Computer Science,Academic Support and Resources,Medical services not open enough hours,Critical,Open,Health Services,16,2.0,4,M,2023-08-25,August,Friday,21
+2023-10-05 01:00:00,Main Campus,Engineering,Administrative and Registration,Inadequate access to lab resources,Low,In Progress,Academic Affairs,19,1.72,5,M,2023-10-05,October,Thursday,1
+2023-10-08 03:00:00,South Campus,Computer Science,Health and Wellness,Need for better academic counseling services,Low,Open,Academic Affairs,19,2.62,5,M,2023-10-08,October,Sunday,3
+2024-03-22 14:00:00,South Campus,Business,Student Services and Facilities,Delayed transcript processing,Medium,Resolved,Registrar Office,20,2.83,5,M,2024-03-22,March,Friday,14
+2024-02-15 01:00:00,South Campus,Engineering,Academic Support and Resources,Campus facilities in poor condition,Low,Resolved,Student Services,22,0.91,2,F,2024-02-15,February,Thursday,1
+2024-02-02 10:00:00,Main Campus,Business,Administrative and Registration,Insufficient parking on campus,High,Resolved,Student Services,17,0.75,1,F,2024-02-02,February,Friday,10
+2024-04-05 03:00:00,South Campus,Computer Science,Student Services and Facilities,Library hours insufficient,High,In Progress,Library Services,23,2.05,5,M,2024-04-05,April,Friday,3
+2023-09-13 02:00:00,Main Campus,Computer Science,Academic Support and Resources,Need for more study spaces,Low,In Progress,Student Services,19,3.77,5,M,2023-09-13,September,Wednesday,2
+2023-10-21 08:00:00,North Campus,Liberal Arts,Library and Learning Resources,Limited book availability,Medium,Resolved,Library Services,21,1.97,1,F,2023-10-21,October,Saturday,8
+2024-02-07 21:00:00,Main Campus,Computer Science,Health and Wellness,Confusion with degree requirements,Low,Closed,Registrar Office,25,2.77,1,F,2024-02-07,February,Wednesday,21
+2024-04-19 12:00:00,Main Campus,Sciences,Health and Wellness,Database access limited,Medium,Resolved,Library Services,18,0.61,1,F,2024-04-19,April,Friday,12
+2023-12-15 03:00:00,North Campus,Sciences,Administrative and Registration,Database access limited,Medium,Resolved,Library Services,27,2.03,3,M,2023-12-15,December,Friday,3
+2023-12-11 19:00:00,South Campus,Computer Science,Administrative and Registration,Unclear graduation requirements,Medium,Resolved,Registrar Office,20,2.49,5,M,2023-12-11,December,Monday,19
+2023-08-29 01:00:00,South Campus,Sciences,Health and Wellness,Interlibrary loan process slow,Medium,Open,Library Services,16,1.44,5,M,2023-08-29,August,Tuesday,1
+2023-11-18 21:00:00,North Campus,Engineering,Technology and IT Support,Unclear graduation requirements,Medium,Closed,Registrar Office,22,1.25,1,F,2023-11-18,November,Saturday,21
+2024-01-01 21:00:00,North Campus,Liberal Arts,Technology and IT Support,Cafeteria food quality concerns,Low,Resolved,Student Services,25,3.3,2,F,2024-01-01,January,Monday,21
+2023-11-16 14:00:00,Main Campus,Computer Science,Academic Support and Resources,Technical support response time slow,Medium,In Progress,IT Department,27,1.88,5,M,2023-11-16,November,Thursday,14
+2023-09-03 22:00:00,South Campus,Engineering,Administrative and Registration,Delayed transcript processing,Medium,Resolved,Registrar Office,16,4.21,1,F,2023-09-03,September,Sunday,22
+2023-10-18 07:00:00,Main Campus,Liberal Arts,Administrative and Registration,Gym and sports facility issues,High,Open,Student Services,23,2.46,4,F,2023-10-18,October,Wednesday,7
+2023-10-24 07:00:00,Main Campus,Computer Science,Library and Learning Resources,Online learning platform issues,High,Closed,IT Department,16,0.01,2,F,2023-10-24,October,Tuesday,7
+2024-04-27 10:00:00,North Campus,Computer Science,Health and Wellness,Limited office hours for instructors,Medium,In Progress,Academic Affairs,24,2.19,1,F,2024-04-27,April,Saturday,10
+2023-10-22 17:00:00,South Campus,Sciences,Administrative and Registration,Gym and sports facility issues,High,Resolved,Student Services,17,1.4,1,F,2023-10-22,October,Sunday,17
+2024-01-25 03:00:00,South Campus,Computer Science,Academic Support and Resources,Insufficient parking on campus,High,In Progress,Student Services,25,1.02,2,F,2024-01-25,January,Thursday,3
+2024-04-29 22:00:00,South Campus,Sciences,Health and Wellness,Technical support response time slow,Medium,Resolved,IT Department,25,1.3,2,F,2024-04-29,April,Monday,22
+2024-02-11 07:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Mental health support inadequate,Critical,Resolved,Health Services,21,1.78,1,F,2024-02-11,February,Sunday,7
+2023-10-18 19:00:00,South Campus,Engineering,Student Services and Facilities,Struggling with course content difficulty,Low,Resolved,Academic Affairs,27,0.65,5,M,2023-10-18,October,Wednesday,19
+2023-11-20 09:00:00,Main Campus,Computer Science,Academic Support and Resources,Database access limited,Medium,Resolved,Library Services,24,2.37,1,F,2023-11-20,November,Monday,9
+2024-04-20 16:00:00,North Campus,Business,Health and Wellness,Gym and sports facility issues,High,Resolved,Student Services,26,3.36,1,F,2024-04-20,April,Saturday,16
+2024-02-25 08:00:00,South Campus,Business,Academic Support and Resources,Limited recreational facilities,Medium,Open,Student Services,21,2.89,2,F,2024-02-25,February,Sunday,8
+2024-03-07 05:00:00,North Campus,Sciences,Administrative and Registration,Computer lab systems outdated,Low,In Progress,IT Department,20,1.82,5,M,2024-03-07,March,Thursday,5
+2023-10-27 18:00:00,North Campus,Business,Library and Learning Resources,Long wait times for health services,Critical,In Progress,Health Services,18,3.87,2,F,2023-10-27,October,Friday,18
+2023-12-08 01:00:00,North Campus,Liberal Arts,Academic Support and Resources,Limited book availability,Medium,Closed,Library Services,27,1.93,1,F,2023-12-08,December,Friday,1
+2023-10-13 06:00:00,North Campus,Engineering,Administrative and Registration,Course registration system difficulties,Low,In Progress,Registrar Office,21,2.27,1,F,2023-10-13,October,Friday,6
+2023-11-21 06:00:00,North Campus,Business,Administrative and Registration,Course registration system difficulties,Low,Resolved,Registrar Office,23,2.86,1,F,2023-11-21,November,Tuesday,6
+2023-10-09 21:00:00,North Campus,Business,Academic Support and Resources,Mental health support inadequate,Critical,Resolved,Health Services,18,0.82,5,M,2023-10-09,October,Monday,21
+2024-02-08 18:00:00,North Campus,Liberal Arts,Technology and IT Support,Online learning platform issues,High,In Progress,IT Department,23,3.16,1,F,2024-02-08,February,Thursday,18
+2024-01-26 15:00:00,North Campus,Computer Science,Academic Support and Resources,Admission process was unclear,Medium,In Progress,Registrar Office,16,2.48,4,M,2024-01-26,January,Friday,15
+2024-02-07 02:00:00,North Campus,Sciences,Administrative and Registration,Inadequate access to lab resources,Low,In Progress,Academic Affairs,24,3.24,3,M,2024-02-07,February,Wednesday,2
+2024-04-19 19:00:00,South Campus,Computer Science,Health and Wellness,Limited book availability,Medium,Resolved,Library Services,17,1.52,1,F,2024-04-19,April,Friday,19
+2024-03-20 04:00:00,South Campus,Liberal Arts,Health and Wellness,Study area conditions poor,Low,In Progress,Library Services,17,1.2,1,F,2024-03-20,March,Wednesday,4
+2023-10-06 14:00:00,North Campus,Liberal Arts,Health and Wellness,Gym and sports facility issues,High,Open,Student Services,19,2.68,4,M,2023-10-06,October,Friday,14
+2023-10-16 03:00:00,South Campus,Engineering,Student Services and Facilities,Medical services not open enough hours,Critical,Resolved,Health Services,18,2.94,1,F,2023-10-16,October,Monday,3
+2023-09-22 03:00:00,Main Campus,Engineering,Academic Support and Resources,Struggling with course content difficulty,Low,Closed,Academic Affairs,20,0.61,2,F,2023-09-22,September,Friday,3
+2024-01-25 10:00:00,Main Campus,Business,Technology and IT Support,Medical services not open enough hours,Critical,In Progress,Health Services,17,2.64,4,M,2024-01-25,January,Thursday,10
+2023-12-25 10:00:00,North Campus,Liberal Arts,Administrative and Registration,Campus facilities in poor condition,Low,In Progress,Student Services,23,0.89,1,F,2023-12-25,December,Monday,10
+2024-01-11 20:00:00,South Campus,Sciences,Technology and IT Support,Registration deadline conflicts,Low,Open,Registrar Office,23,1.24,1,F,2024-01-11,January,Thursday,20
+2024-01-31 02:00:00,Main Campus,Liberal Arts,Technology and IT Support,Struggling with course content difficulty,Low,Resolved,Academic Affairs,22,2.27,5,M,2024-01-31,January,Wednesday,2
+2024-02-07 03:00:00,North Campus,Sciences,Technology and IT Support,VPN connectivity issues,High,Resolved,IT Department,20,2.79,4,M,2024-02-07,February,Wednesday,3
+2023-12-20 10:00:00,Main Campus,Engineering,Administrative and Registration,Financial aid processing delays,Low,Open,Registrar Office,22,2.68,4,M,2023-12-20,December,Wednesday,10
+2024-01-12 09:00:00,Main Campus,Liberal Arts,Student Services and Facilities,Study area conditions poor,Low,In Progress,Library Services,23,3.13,2,F,2024-01-12,January,Friday,9
+2023-10-24 10:00:00,South Campus,Sciences,Technology and IT Support,Need for better academic counseling services,Low,Resolved,Academic Affairs,20,2.51,4,M,2023-10-24,October,Tuesday,10
+2023-11-14 15:00:00,Main Campus,Engineering,Administrative and Registration,Limited recreational facilities,Medium,Resolved,Student Services,21,1.3,5,M,2023-11-14,November,Tuesday,15
+2023-11-09 10:00:00,North Campus,Computer Science,Academic Support and Resources,Need for better academic counseling services,Low,Open,Academic Affairs,21,1.11,3,M,2023-11-09,November,Thursday,10
+2024-01-03 22:00:00,South Campus,Computer Science,Library and Learning Resources,Study area conditions poor,Low,Resolved,Library Services,22,1.31,5,M,2024-01-03,January,Wednesday,22
+2024-03-11 04:00:00,South Campus,Computer Science,Library and Learning Resources,Poor quality of online course materials,Low,In Progress,Academic Affairs,22,1.28,4,M,2024-03-11,March,Monday,4
+2023-11-17 12:00:00,North Campus,Sciences,Administrative and Registration,Need for more study spaces,Low,In Progress,Student Services,21,4.52,2,F,2023-11-17,November,Friday,12
+2024-01-04 08:00:00,North Campus,Business,Academic Support and Resources,Limited recreational facilities,Medium,Resolved,Student Services,22,4.12,1,F,2024-01-04,January,Thursday,8
+2023-09-19 17:00:00,South Campus,Business,Administrative and Registration,Computer lab systems outdated,Low,Resolved,IT Department,23,2.42,3,M,2023-09-19,September,Tuesday,17
+2023-10-17 15:00:00,North Campus,Computer Science,Technology and IT Support,Course registration system difficulties,Low,Resolved,Registrar Office,21,0.43,2,F,2023-10-17,October,Tuesday,15
+2024-02-01 19:00:00,South Campus,Business,Library and Learning Resources,VPN connectivity issues,High,Closed,IT Department,24,0.9,5,M,2024-02-01,February,Thursday,19
+2023-11-19 08:00:00,Main Campus,Computer Science,Academic Support and Resources,Campus safety concerns,Critical,Resolved,Health Services,23,3.43,5,M,2023-11-19,November,Sunday,8
+2024-05-05 15:00:00,North Campus,Computer Science,Academic Support and Resources,Long wait times for health services,Critical,Resolved,Health Services,17,2.06,4,M,2024-05-05,May,Sunday,15
+2024-01-08 16:00:00,Main Campus,Engineering,Library and Learning Resources,Course registration system difficulties,Low,Resolved,Registrar Office,22,1.18,5,M,2024-01-08,January,Monday,16
+2023-09-07 09:00:00,Main Campus,Liberal Arts,Administrative and Registration,VPN connectivity issues,High,Resolved,IT Department,22,3.26,5,M,2023-09-07,September,Thursday,9
+2024-03-25 18:00:00,North Campus,Computer Science,Health and Wellness,Course registration system difficulties,Low,Closed,Registrar Office,17,0.01,3,M,2024-03-25,March,Monday,18
+2024-03-22 00:00:00,South Campus,Computer Science,Library and Learning Resources,Library hours insufficient,High,Open,Library Services,24,1.65,1,F,2024-03-22,March,Friday,0
+2024-01-26 04:00:00,North Campus,Liberal Arts,Academic Support and Resources,Inadequate access to lab resources,Low,Closed,Academic Affairs,26,2.26,1,F,2024-01-26,January,Friday,4
+2024-05-14 01:00:00,Main Campus,Liberal Arts,Health and Wellness,Course registration system difficulties,Low,Resolved,Registrar Office,21,1.42,1,F,2024-05-14,May,Tuesday,1
+2024-04-21 04:00:00,North Campus,Business,Academic Support and Resources,Difficulty finding required course materials,Low,Resolved,Academic Affairs,22,1.88,2,F,2024-04-21,April,Sunday,4
+2023-09-30 13:00:00,South Campus,Liberal Arts,Student Services and Facilities,Technical support response time slow,Medium,In Progress,IT Department,20,2.01,1,F,2023-09-30,September,Saturday,13
+2023-09-28 07:00:00,South Campus,Sciences,Technology and IT Support,Database access limited,Medium,Resolved,Library Services,18,2.58,4,M,2023-09-28,September,Thursday,7
+2024-04-05 21:00:00,South Campus,Computer Science,Administrative and Registration,Technical support response time slow,Medium,Resolved,IT Department,18,2.31,2,F,2024-04-05,April,Friday,21
+2024-02-18 09:00:00,North Campus,Liberal Arts,Library and Learning Resources,Technical support response time slow,Medium,In Progress,IT Department,21,0.01,4,M,2024-02-18,February,Sunday,9
+2024-01-26 13:00:00,North Campus,Business,Health and Wellness,Mental health support inadequate,Critical,Closed,Health Services,19,0.18,5,M,2024-01-26,January,Friday,13
+2023-12-09 20:00:00,South Campus,Engineering,Student Services and Facilities,Need for more study spaces,Low,Open,Student Services,25,3.08,2,F,2023-12-09,December,Saturday,20
+2024-03-05 09:00:00,Main Campus,Sciences,Academic Support and Resources,Insufficient tutoring and academic support,High,Open,Academic Affairs,19,2.77,1,F,2024-03-05,March,Tuesday,9
+2024-02-01 18:00:00,North Campus,Computer Science,Student Services and Facilities,Insufficient parking on campus,High,Resolved,Student Services,21,1.78,5,M,2024-02-01,February,Thursday,18
+2024-03-14 09:00:00,North Campus,Liberal Arts,Student Services and Facilities,Financial aid processing delays,Low,Resolved,Registrar Office,27,3.64,4,M,2024-03-14,March,Thursday,9
+2023-12-07 08:00:00,South Campus,Business,Academic Support and Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,22,1.76,4,M,2023-12-07,December,Thursday,8
+2024-01-13 11:00:00,Main Campus,Sciences,Student Services and Facilities,Library hours insufficient,High,Open,Library Services,21,0.85,5,M,2024-01-13,January,Saturday,11
+2024-04-07 00:00:00,Main Campus,Sciences,Administrative and Registration,Admission process was unclear,Medium,Closed,Registrar Office,18,0.74,4,F,2024-04-07,April,Sunday,0
+2024-01-19 17:00:00,Main Campus,Engineering,Technology and IT Support,Mental health support inadequate,Critical,Open,Health Services,22,3.58,1,F,2024-01-19,January,Friday,17
+2024-02-08 22:00:00,South Campus,Sciences,Health and Wellness,Poor quality of online course materials,Low,Open,Academic Affairs,20,2.0,2,F,2024-02-08,February,Thursday,22
+2024-04-30 16:00:00,North Campus,Engineering,Technology and IT Support,Email and portal access problems,Low,Open,IT Department,21,0.35,4,M,2024-04-30,April,Tuesday,16
+2024-03-04 08:00:00,North Campus,Sciences,Academic Support and Resources,Database access limited,Medium,Resolved,Library Services,19,0.01,3,M,2024-03-04,March,Monday,8
+2023-09-01 02:00:00,Main Campus,Engineering,Academic Support and Resources,Technical support response time slow,Medium,Closed,IT Department,19,3.67,2,F,2023-09-01,September,Friday,2
+2023-09-16 20:00:00,South Campus,Sciences,Health and Wellness,Dormitory maintenance issues,High,Resolved,Student Services,16,1.17,2,F,2023-09-16,September,Saturday,20
+2024-03-20 19:00:00,Main Campus,Computer Science,Administrative and Registration,Library hours insufficient,High,Resolved,Library Services,20,2.17,2,F,2024-03-20,March,Wednesday,19
+2023-10-06 02:00:00,North Campus,Liberal Arts,Academic Support and Resources,Counseling services overcrowded,Low,Open,Health Services,20,1.2,4,M,2023-10-06,October,Friday,2
+2023-09-07 06:00:00,North Campus,Liberal Arts,Technology and IT Support,Interlibrary loan process slow,Medium,Resolved,Library Services,20,1.97,5,M,2023-09-07,September,Thursday,6
+2023-12-23 04:00:00,Main Campus,Sciences,Technology and IT Support,Counseling services overcrowded,Low,Resolved,Health Services,16,2.38,5,M,2023-12-23,December,Saturday,4
+2024-02-23 06:00:00,South Campus,Business,Health and Wellness,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,22,2.57,1,F,2024-02-23,February,Friday,6
+2023-08-19 09:00:00,Main Campus,Business,Academic Support and Resources,Technical support response time slow,Medium,Open,IT Department,25,0.65,3,M,2023-08-19,August,Saturday,9
+2024-05-04 11:00:00,Main Campus,Sciences,Technology and IT Support,Email and portal access problems,Low,Resolved,IT Department,18,4.39,5,M,2024-05-04,May,Saturday,11
+2024-04-01 18:00:00,South Campus,Business,Health and Wellness,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,22,3.01,1,F,2024-04-01,April,Monday,18
+2023-09-02 12:00:00,North Campus,Liberal Arts,Technology and IT Support,Mental health support inadequate,Critical,Resolved,Health Services,27,2.93,2,F,2023-09-02,September,Saturday,12
+2023-12-25 05:00:00,Main Campus,Liberal Arts,Technology and IT Support,Long wait times for health services,Critical,Resolved,Health Services,24,4.16,5,M,2023-12-25,December,Monday,5
+2024-03-28 10:00:00,Main Campus,Engineering,Technology and IT Support,Need for more study spaces,Low,Open,Student Services,27,2.33,1,F,2024-03-28,March,Thursday,10
+2023-09-27 19:00:00,South Campus,Sciences,Administrative and Registration,Inadequate access to lab resources,Low,Resolved,Academic Affairs,19,1.87,4,M,2023-09-27,September,Wednesday,19
+2023-08-27 01:00:00,North Campus,Engineering,Academic Support and Resources,Technical support response time slow,Medium,In Progress,IT Department,23,3.33,1,F,2023-08-27,August,Sunday,1
+2024-01-27 13:00:00,South Campus,Business,Health and Wellness,Course registration system difficulties,Low,Resolved,Registrar Office,16,1.79,2,F,2024-01-27,January,Saturday,13
+2023-09-28 08:00:00,South Campus,Sciences,Health and Wellness,Poor quality of online course materials,Low,Resolved,Academic Affairs,19,0.85,1,F,2023-09-28,September,Thursday,8
+2024-03-16 22:00:00,North Campus,Computer Science,Technology and IT Support,Poor quality of online course materials,Low,In Progress,Academic Affairs,23,0.7,1,F,2024-03-16,March,Saturday,22
+2024-05-08 14:00:00,South Campus,Engineering,Academic Support and Resources,Need for more study spaces,Low,Closed,Student Services,19,2.58,3,M,2024-05-08,May,Wednesday,14
+2023-12-26 18:00:00,South Campus,Sciences,Academic Support and Resources,Admission process was unclear,Medium,Resolved,Registrar Office,26,2.83,1,F,2023-12-26,December,Tuesday,18
+2023-08-15 03:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Long wait times for health services,Critical,Open,Health Services,23,1.84,4,F,2023-08-15,August,Tuesday,3
+2023-09-05 23:00:00,Main Campus,Business,Technology and IT Support,Wi-Fi connection unstable,Low,Resolved,IT Department,24,1.67,1,F,2023-09-05,September,Tuesday,23
+2024-02-14 08:00:00,North Campus,Liberal Arts,Library and Learning Resources,Technical support response time slow,Medium,In Progress,IT Department,17,0.21,1,F,2024-02-14,February,Wednesday,8
+2023-11-26 08:00:00,North Campus,Sciences,Technology and IT Support,Cafeteria food quality concerns,Low,Resolved,Student Services,16,0.91,3,M,2023-11-26,November,Sunday,8
+2024-02-23 00:00:00,North Campus,Sciences,Health and Wellness,Inadequate access to lab resources,Low,Resolved,Academic Affairs,25,1.85,3,M,2024-02-23,February,Friday,0
+2024-03-05 04:00:00,North Campus,Liberal Arts,Health and Wellness,Confusion with degree requirements,Low,Closed,Registrar Office,24,2.48,4,M,2024-03-05,March,Tuesday,4
+2024-02-26 22:00:00,South Campus,Liberal Arts,Library and Learning Resources,Email and portal access problems,Low,Resolved,IT Department,24,2.17,5,M,2024-02-26,February,Monday,22
+2024-05-11 22:00:00,South Campus,Engineering,Health and Wellness,Database access limited,Medium,Resolved,Library Services,18,1.53,4,F,2024-05-11,May,Saturday,22
+2023-09-10 23:00:00,South Campus,Business,Health and Wellness,Cafeteria food quality concerns,Low,Resolved,Student Services,19,2.62,1,F,2023-09-10,September,Sunday,23
+2023-11-12 08:00:00,South Campus,Sciences,Academic Support and Resources,Long wait times for health services,Critical,Open,Health Services,16,2.66,3,M,2023-11-12,November,Sunday,8
+2024-02-16 01:00:00,North Campus,Liberal Arts,Administrative and Registration,Difficulty finding required course materials,Low,Resolved,Academic Affairs,27,4.06,1,F,2024-02-16,February,Friday,1
+2023-08-20 18:00:00,South Campus,Engineering,Technology and IT Support,Interlibrary loan process slow,Medium,Resolved,Library Services,23,2.05,3,M,2023-08-20,August,Sunday,18
+2024-03-16 05:00:00,Main Campus,Computer Science,Student Services and Facilities,Poor quality of online course materials,Low,Open,Academic Affairs,24,2.56,2,F,2024-03-16,March,Saturday,5
+2023-11-17 15:00:00,Main Campus,Computer Science,Academic Support and Resources,VPN connectivity issues,High,Resolved,IT Department,22,0.01,1,F,2023-11-17,November,Friday,15
+2023-09-15 13:00:00,North Campus,Sciences,Student Services and Facilities,Counseling services overcrowded,Low,Resolved,Health Services,19,3.99,1,F,2023-09-15,September,Friday,13
+2024-03-16 14:00:00,Main Campus,Sciences,Student Services and Facilities,Online learning platform issues,High,Resolved,IT Department,17,2.45,4,M,2024-03-16,March,Saturday,14
+2023-10-03 13:00:00,South Campus,Computer Science,Academic Support and Resources,Delayed transcript processing,Medium,Open,Registrar Office,18,2.46,1,F,2023-10-03,October,Tuesday,13
+2024-04-08 09:00:00,South Campus,Liberal Arts,Administrative and Registration,Database access limited,Medium,Open,Library Services,19,4.76,1,F,2024-04-08,April,Monday,9
+2023-11-08 12:00:00,South Campus,Computer Science,Library and Learning Resources,Limited book availability,Medium,In Progress,Library Services,19,0.37,2,F,2023-11-08,November,Wednesday,12
+2024-01-05 20:00:00,Main Campus,Engineering,Administrative and Registration,Inadequate access to lab resources,Low,Resolved,Academic Affairs,19,2.7,5,M,2024-01-05,January,Friday,20
+2024-04-02 20:00:00,Main Campus,Business,Academic Support and Resources,Limited book availability,Medium,Open,Library Services,24,1.5,2,F,2024-04-02,April,Tuesday,20
+2024-04-11 13:00:00,South Campus,Liberal Arts,Academic Support and Resources,Mental health support inadequate,Critical,Resolved,Health Services,22,1.7,1,F,2024-04-11,April,Thursday,13
+2023-12-23 19:00:00,South Campus,Business,Technology and IT Support,Registration deadline conflicts,Low,Open,Registrar Office,20,3.88,1,F,2023-12-23,December,Saturday,19
+2024-03-12 01:00:00,South Campus,Sciences,Student Services and Facilities,Cafeteria food quality concerns,Low,Resolved,Student Services,21,1.37,3,M,2024-03-12,March,Tuesday,1
+2023-10-11 10:00:00,South Campus,Sciences,Technology and IT Support,Limited recreational facilities,Medium,In Progress,Student Services,16,2.75,2,F,2023-10-11,October,Wednesday,10
+2023-08-16 15:00:00,North Campus,Computer Science,Health and Wellness,Limited recreational facilities,Medium,Resolved,Student Services,25,1.7,4,M,2023-08-16,August,Wednesday,15
+2023-12-18 15:00:00,North Campus,Engineering,Technology and IT Support,Admission process was unclear,Medium,In Progress,Registrar Office,17,2.82,2,F,2023-12-18,December,Monday,15
+2024-05-12 02:00:00,Main Campus,Computer Science,Student Services and Facilities,Library hours insufficient,High,Resolved,Library Services,22,0.75,1,F,2024-05-12,May,Sunday,2
+2023-12-15 09:00:00,Main Campus,Business,Health and Wellness,Poor quality of online course materials,Low,In Progress,Academic Affairs,18,0.01,5,M,2023-12-15,December,Friday,9
+2023-11-28 01:00:00,South Campus,Business,Student Services and Facilities,Inadequate access to lab resources,Low,Resolved,Academic Affairs,23,1.76,2,F,2023-11-28,November,Tuesday,1
+2023-09-18 13:00:00,North Campus,Sciences,Library and Learning Resources,VPN connectivity issues,High,Resolved,IT Department,22,1.14,3,M,2023-09-18,September,Monday,13
+2023-12-01 23:00:00,South Campus,Liberal Arts,Health and Wellness,Technical support response time slow,Medium,Open,IT Department,21,4.02,1,F,2023-12-01,December,Friday,23
+2023-12-31 06:00:00,Main Campus,Computer Science,Student Services and Facilities,Medical services not open enough hours,Critical,Resolved,Health Services,23,3.22,3,M,2023-12-31,December,Sunday,6
+2024-04-16 21:00:00,South Campus,Engineering,Student Services and Facilities,Delayed transcript processing,Medium,Resolved,Registrar Office,18,2.14,5,M,2024-04-16,April,Tuesday,21
+2023-11-08 12:00:00,South Campus,Computer Science,Academic Support and Resources,Library hours insufficient,High,Open,Library Services,22,1.55,2,F,2023-11-08,November,Wednesday,12
+2024-02-14 20:00:00,South Campus,Engineering,Technology and IT Support,Medical services not open enough hours,Critical,Resolved,Health Services,16,0.52,2,F,2024-02-14,February,Wednesday,20
+2023-11-04 17:00:00,South Campus,Liberal Arts,Academic Support and Resources,Cafeteria food quality concerns,Low,In Progress,Student Services,22,3.65,2,F,2023-11-04,November,Saturday,17
+2023-09-11 06:00:00,North Campus,Computer Science,Health and Wellness,Database access limited,Medium,Resolved,Library Services,22,0.6,3,M,2023-09-11,September,Monday,6
+2024-01-06 13:00:00,North Campus,Computer Science,Student Services and Facilities,Limited recreational facilities,Medium,Resolved,Student Services,24,4.39,5,M,2024-01-06,January,Saturday,13
+2024-05-03 06:00:00,North Campus,Business,Health and Wellness,Course registration system difficulties,Low,Open,Registrar Office,26,3.5,5,M,2024-05-03,May,Friday,6
+2024-01-30 15:00:00,North Campus,Business,Technology and IT Support,Campus facilities in poor condition,Low,Resolved,Student Services,19,3.77,2,F,2024-01-30,January,Tuesday,15
+2023-10-17 18:00:00,North Campus,Business,Technology and IT Support,Database access limited,Medium,Resolved,Library Services,19,4.33,2,F,2023-10-17,October,Tuesday,18
+2023-09-21 01:00:00,North Campus,Computer Science,Technology and IT Support,Mental health support inadequate,Critical,Closed,Health Services,19,2.78,1,F,2023-09-21,September,Thursday,1
+2024-01-16 12:00:00,North Campus,Sciences,Academic Support and Resources,Difficulty finding required course materials,Low,Resolved,Academic Affairs,23,2.29,1,F,2024-01-16,January,Tuesday,12
+2023-12-06 15:00:00,North Campus,Computer Science,Academic Support and Resources,Limited access to research databases and materials,Medium,Closed,Academic Affairs,21,0.32,1,F,2023-12-06,December,Wednesday,15
+2023-09-14 20:00:00,South Campus,Business,Technology and IT Support,Online learning platform issues,High,Resolved,IT Department,21,3.59,2,F,2023-09-14,September,Thursday,20
+2023-11-15 22:00:00,Main Campus,Engineering,Student Services and Facilities,Dormitory maintenance issues,High,In Progress,Student Services,18,2.45,2,F,2023-11-15,November,Wednesday,22
+2024-03-25 12:00:00,Main Campus,Computer Science,Administrative and Registration,Medical services not open enough hours,Critical,Resolved,Health Services,19,2.33,5,M,2024-03-25,March,Monday,12
+2024-03-08 18:00:00,Main Campus,Computer Science,Academic Support and Resources,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,21,1.45,4,F,2024-03-08,March,Friday,18
+2024-01-13 15:00:00,North Campus,Engineering,Student Services and Facilities,Mental health support inadequate,Critical,Resolved,Health Services,27,2.6,1,F,2024-01-13,January,Saturday,15
+2023-11-13 20:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Gym and sports facility issues,High,Resolved,Student Services,16,2.74,2,F,2023-11-13,November,Monday,20
+2023-10-15 20:00:00,South Campus,Computer Science,Library and Learning Resources,Medical services not open enough hours,Critical,Resolved,Health Services,21,4.97,3,M,2023-10-15,October,Sunday,20
+2023-10-08 10:00:00,North Campus,Liberal Arts,Student Services and Facilities,Long wait times for health services,Critical,Resolved,Health Services,19,2.12,2,F,2023-10-08,October,Sunday,10
+2024-04-10 13:00:00,Main Campus,Liberal Arts,Health and Wellness,Email and portal access problems,Low,Resolved,IT Department,23,3.6,1,F,2024-04-10,April,Wednesday,13
+2024-01-29 02:00:00,South Campus,Engineering,Academic Support and Resources,Limited office hours for instructors,Medium,In Progress,Academic Affairs,21,1.48,4,M,2024-01-29,January,Monday,2
+2024-04-22 02:00:00,South Campus,Engineering,Health and Wellness,Delayed transcript processing,Medium,Resolved,Registrar Office,23,2.8,4,M,2024-04-22,April,Monday,2
+2023-11-30 08:00:00,Main Campus,Computer Science,Student Services and Facilities,VPN connectivity issues,High,Resolved,IT Department,21,0.93,2,F,2023-11-30,November,Thursday,8
+2024-04-28 16:00:00,North Campus,Sciences,Library and Learning Resources,Struggling with course content difficulty,Low,In Progress,Academic Affairs,21,1.88,1,F,2024-04-28,April,Sunday,16
+2024-01-02 01:00:00,North Campus,Computer Science,Library and Learning Resources,Campus safety concerns,Critical,Resolved,Health Services,17,2.43,2,F,2024-01-02,January,Tuesday,1
+2023-10-29 19:00:00,Main Campus,Engineering,Student Services and Facilities,Mental health support inadequate,Critical,Resolved,Health Services,19,3.24,5,M,2023-10-29,October,Sunday,19
+2023-10-07 13:00:00,North Campus,Liberal Arts,Library and Learning Resources,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,22,2.43,4,M,2023-10-07,October,Saturday,13
+2023-10-01 18:00:00,South Campus,Engineering,Library and Learning Resources,Limited book availability,Medium,Open,Library Services,21,0.48,1,F,2023-10-01,October,Sunday,18
+2023-09-22 08:00:00,North Campus,Business,Technology and IT Support,Library hours insufficient,High,In Progress,Library Services,17,1.98,1,F,2023-09-22,September,Friday,8
+2024-03-24 10:00:00,North Campus,Computer Science,Technology and IT Support,Inadequate access to lab resources,Low,Closed,Academic Affairs,26,1.44,5,M,2024-03-24,March,Sunday,10
+2024-01-11 17:00:00,Main Campus,Engineering,Student Services and Facilities,Wi-Fi connection unstable,Low,In Progress,IT Department,20,1.69,3,M,2024-01-11,January,Thursday,17
+2023-12-14 01:00:00,Main Campus,Sciences,Health and Wellness,Email and portal access problems,Low,In Progress,IT Department,20,1.91,1,F,2023-12-14,December,Thursday,1
+2023-10-09 10:00:00,South Campus,Liberal Arts,Academic Support and Resources,Inadequate access to lab resources,Low,Resolved,Academic Affairs,22,2.11,1,F,2023-10-09,October,Monday,10
+2023-09-29 13:00:00,North Campus,Computer Science,Academic Support and Resources,Financial aid processing delays,Low,In Progress,Registrar Office,17,1.78,4,M,2023-09-29,September,Friday,13
+2024-01-30 06:00:00,North Campus,Liberal Arts,Library and Learning Resources,Dormitory maintenance issues,High,Open,Student Services,22,4.24,5,M,2024-01-30,January,Tuesday,6
+2023-08-18 14:00:00,North Campus,Business,Student Services and Facilities,Cafeteria food quality concerns,Low,In Progress,Student Services,23,1.65,4,M,2023-08-18,August,Friday,14
+2023-10-30 19:00:00,Main Campus,Sciences,Technology and IT Support,Need for better academic counseling services,Low,Resolved,Academic Affairs,16,0.83,1,F,2023-10-30,October,Monday,19
+2023-12-31 12:00:00,Main Campus,Engineering,Technology and IT Support,Counseling services overcrowded,Low,Resolved,Health Services,23,1.35,2,F,2023-12-31,December,Sunday,12
+2023-11-22 12:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Online learning platform issues,High,In Progress,IT Department,22,2.95,5,M,2023-11-22,November,Wednesday,12
+2024-03-20 15:00:00,North Campus,Business,Library and Learning Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,26,2.81,3,M,2024-03-20,March,Wednesday,15
+2024-04-24 17:00:00,South Campus,Business,Student Services and Facilities,Inadequate access to lab resources,Low,Closed,Academic Affairs,16,1.57,4,M,2024-04-24,April,Wednesday,17
+2024-01-19 03:00:00,Main Campus,Sciences,Academic Support and Resources,Long wait times for health services,Critical,In Progress,Health Services,21,4.72,5,M,2024-01-19,January,Friday,3
+2023-12-14 19:00:00,Main Campus,Sciences,Administrative and Registration,Need for more study spaces,Low,In Progress,Student Services,26,3.0,3,M,2023-12-14,December,Thursday,19
+2023-11-13 11:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Gym and sports facility issues,High,In Progress,Student Services,19,2.98,4,M,2023-11-13,November,Monday,11
+2023-10-24 22:00:00,Main Campus,Engineering,Academic Support and Resources,Online learning platform issues,High,Resolved,IT Department,21,2.02,5,M,2023-10-24,October,Tuesday,22
+2023-12-30 15:00:00,Main Campus,Sciences,Student Services and Facilities,Database access limited,Medium,Resolved,Library Services,17,2.22,5,M,2023-12-30,December,Saturday,15
+2023-08-24 10:00:00,South Campus,Sciences,Technology and IT Support,Counseling services overcrowded,Low,In Progress,Health Services,20,3.45,3,M,2023-08-24,August,Thursday,10
+2023-08-16 21:00:00,Main Campus,Liberal Arts,Health and Wellness,Study area conditions poor,Low,Resolved,Library Services,24,2.66,4,F,2023-08-16,August,Wednesday,21
+2024-03-31 20:00:00,South Campus,Liberal Arts,Student Services and Facilities,Library hours insufficient,High,Open,Library Services,16,2.31,2,F,2024-03-31,March,Sunday,20
+2023-11-18 01:00:00,North Campus,Liberal Arts,Health and Wellness,Database access limited,Medium,Resolved,Library Services,20,1.35,5,M,2023-11-18,November,Saturday,1
+2024-02-28 20:00:00,North Campus,Liberal Arts,Academic Support and Resources,Course registration system difficulties,Low,Resolved,Registrar Office,24,2.04,1,F,2024-02-28,February,Wednesday,20
+2023-10-21 15:00:00,South Campus,Business,Academic Support and Resources,Admission process was unclear,Medium,In Progress,Registrar Office,23,2.08,2,F,2023-10-21,October,Saturday,15
+2023-09-29 08:00:00,North Campus,Liberal Arts,Technology and IT Support,Counseling services overcrowded,Low,Resolved,Health Services,21,0.33,5,M,2023-09-29,September,Friday,8
+2023-11-22 10:00:00,South Campus,Sciences,Health and Wellness,Dormitory maintenance issues,High,In Progress,Student Services,22,1.3,2,F,2023-11-22,November,Wednesday,10
+2024-03-05 09:00:00,South Campus,Computer Science,Technology and IT Support,Dormitory maintenance issues,High,Resolved,Student Services,18,2.09,2,F,2024-03-05,March,Tuesday,9
+2023-09-29 00:00:00,Main Campus,Computer Science,Academic Support and Resources,Library hours insufficient,High,Open,Library Services,16,0.57,4,M,2023-09-29,September,Friday,0
+2024-04-16 15:00:00,South Campus,Computer Science,Technology and IT Support,Campus facilities in poor condition,Low,Resolved,Student Services,23,2.08,1,F,2024-04-16,April,Tuesday,15
+2023-09-11 06:00:00,South Campus,Computer Science,Health and Wellness,Need for better academic counseling services,Low,In Progress,Academic Affairs,21,0.73,3,M,2023-09-11,September,Monday,6
+2023-12-19 05:00:00,South Campus,Sciences,Health and Wellness,Course registration system difficulties,Low,Resolved,Registrar Office,22,1.91,4,F,2023-12-19,December,Tuesday,5
+2023-11-16 15:00:00,North Campus,Computer Science,Health and Wellness,Computer lab systems outdated,Low,In Progress,IT Department,21,1.98,5,M,2023-11-16,November,Thursday,15
+2023-09-17 13:00:00,South Campus,Engineering,Library and Learning Resources,Computer lab systems outdated,Low,Resolved,IT Department,16,0.45,4,M,2023-09-17,September,Sunday,13
+2023-08-26 01:00:00,North Campus,Business,Health and Wellness,Database access limited,Medium,In Progress,Library Services,27,2.4,3,M,2023-08-26,August,Saturday,1
+2024-02-13 03:00:00,North Campus,Computer Science,Health and Wellness,Inadequate access to lab resources,Low,Closed,Academic Affairs,25,2.35,3,M,2024-02-13,February,Tuesday,3
+2024-02-02 08:00:00,Main Campus,Computer Science,Library and Learning Resources,Interlibrary loan process slow,Medium,Open,Library Services,16,1.6,4,M,2024-02-02,February,Friday,8
+2023-10-25 14:00:00,North Campus,Sciences,Technology and IT Support,Delayed transcript processing,Medium,In Progress,Registrar Office,19,1.71,1,F,2023-10-25,October,Wednesday,14
+2023-10-04 10:00:00,Main Campus,Business,Administrative and Registration,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,19,2.69,3,M,2023-10-04,October,Wednesday,10
+2023-11-24 22:00:00,Main Campus,Computer Science,Technology and IT Support,Counseling services overcrowded,Low,Open,Health Services,20,3.14,4,M,2023-11-24,November,Friday,22
+2023-08-17 17:00:00,Main Campus,Business,Administrative and Registration,Mental health support inadequate,Critical,In Progress,Health Services,16,0.01,4,F,2023-08-17,August,Thursday,17
+2023-11-02 04:00:00,Main Campus,Computer Science,Academic Support and Resources,Registration deadline conflicts,Low,Closed,Registrar Office,19,2.84,4,M,2023-11-02,November,Thursday,4
+2024-04-28 00:00:00,North Campus,Liberal Arts,Health and Wellness,VPN connectivity issues,High,Closed,IT Department,20,1.31,4,M,2024-04-28,April,Sunday,0
+2023-10-14 11:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Poor quality of online course materials,Low,In Progress,Academic Affairs,20,2.62,2,F,2023-10-14,October,Saturday,11
+2024-04-28 22:00:00,South Campus,Sciences,Library and Learning Resources,Limited recreational facilities,Medium,Closed,Student Services,24,2.02,3,M,2024-04-28,April,Sunday,22
+2023-09-17 00:00:00,South Campus,Business,Student Services and Facilities,Medical services not open enough hours,Critical,Resolved,Health Services,22,2.06,1,F,2023-09-17,September,Sunday,0
+2023-12-04 17:00:00,North Campus,Computer Science,Administrative and Registration,Limited book availability,Medium,In Progress,Library Services,16,2.12,2,F,2023-12-04,December,Monday,17
+2024-03-10 05:00:00,South Campus,Liberal Arts,Academic Support and Resources,Study area conditions poor,Low,Resolved,Library Services,19,1.82,2,F,2024-03-10,March,Sunday,5
+2024-05-10 06:00:00,South Campus,Liberal Arts,Library and Learning Resources,Unclear graduation requirements,Medium,Resolved,Registrar Office,19,1.14,2,F,2024-05-10,May,Friday,6
+2023-11-21 03:00:00,North Campus,Sciences,Library and Learning Resources,Wi-Fi connection unstable,Low,Closed,IT Department,22,0.89,1,F,2023-11-21,November,Tuesday,3
+2023-08-18 19:00:00,North Campus,Liberal Arts,Health and Wellness,Campus safety concerns,Critical,In Progress,Health Services,23,2.73,2,F,2023-08-18,August,Friday,19
+2023-09-18 18:00:00,South Campus,Sciences,Technology and IT Support,Confusion with degree requirements,Low,Resolved,Registrar Office,18,1.18,1,F,2023-09-18,September,Monday,18
+2024-02-16 16:00:00,North Campus,Business,Technology and IT Support,Technical support response time slow,Medium,Open,IT Department,26,3.39,2,F,2024-02-16,February,Friday,16
+2023-11-27 01:00:00,Main Campus,Sciences,Health and Wellness,Cafeteria food quality concerns,Low,Open,Student Services,20,1.51,5,M,2023-11-27,November,Monday,1
+2023-12-08 16:00:00,Main Campus,Computer Science,Academic Support and Resources,Limited book availability,Medium,Open,Library Services,20,2.96,2,F,2023-12-08,December,Friday,16
+2023-10-11 13:00:00,South Campus,Liberal Arts,Administrative and Registration,Delayed transcript processing,Medium,Closed,Registrar Office,16,2.02,1,F,2023-10-11,October,Wednesday,13
+2023-10-23 02:00:00,Main Campus,Sciences,Health and Wellness,Insufficient parking on campus,High,Resolved,Student Services,23,3.3,5,M,2023-10-23,October,Monday,2
+2023-12-22 23:00:00,South Campus,Liberal Arts,Health and Wellness,Financial aid processing delays,Low,Resolved,Registrar Office,16,2.06,3,M,2023-12-22,December,Friday,23
+2023-11-22 07:00:00,North Campus,Engineering,Student Services and Facilities,Inadequate access to lab resources,Low,Resolved,Academic Affairs,20,1.66,4,M,2023-11-22,November,Wednesday,7
+2024-03-26 13:00:00,South Campus,Liberal Arts,Library and Learning Resources,Confusion with degree requirements,Low,In Progress,Registrar Office,18,2.62,4,M,2024-03-26,March,Tuesday,13
+2024-01-24 16:00:00,North Campus,Liberal Arts,Academic Support and Resources,Cafeteria food quality concerns,Low,In Progress,Student Services,27,2.54,1,F,2024-01-24,January,Wednesday,16
+2023-09-30 06:00:00,Main Campus,Engineering,Administrative and Registration,Insufficient parking on campus,High,In Progress,Student Services,21,0.83,2,F,2023-09-30,September,Saturday,6
+2024-04-23 19:00:00,North Campus,Computer Science,Health and Wellness,Campus safety concerns,Critical,In Progress,Health Services,18,1.77,5,M,2024-04-23,April,Tuesday,19
+2024-05-02 19:00:00,Main Campus,Computer Science,Technology and IT Support,Struggling with course content difficulty,Low,Resolved,Academic Affairs,23,0.86,4,M,2024-05-02,May,Thursday,19
+2023-11-14 21:00:00,South Campus,Computer Science,Health and Wellness,Course registration system difficulties,Low,Resolved,Registrar Office,18,2.48,1,F,2023-11-14,November,Tuesday,21
+2023-08-29 23:00:00,Main Campus,Engineering,Student Services and Facilities,Dormitory maintenance issues,High,Open,Student Services,26,4.58,2,F,2023-08-29,August,Tuesday,23
+2024-02-23 00:00:00,North Campus,Computer Science,Academic Support and Resources,Medical services not open enough hours,Critical,Open,Health Services,24,1.52,3,M,2024-02-23,February,Friday,0
+2024-05-02 03:00:00,North Campus,Sciences,Health and Wellness,Difficulty finding required course materials,Low,Open,Academic Affairs,22,1.13,5,M,2024-05-02,May,Thursday,3
+2024-01-16 22:00:00,Main Campus,Computer Science,Health and Wellness,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,24,2.55,3,M,2024-01-16,January,Tuesday,22
+2024-03-29 01:00:00,Main Campus,Business,Academic Support and Resources,Study area conditions poor,Low,Closed,Library Services,23,2.68,2,F,2024-03-29,March,Friday,1
+2023-09-17 05:00:00,Main Campus,Engineering,Technology and IT Support,Campus facilities in poor condition,Low,Resolved,Student Services,21,0.01,5,M,2023-09-17,September,Sunday,5
+2023-11-27 16:00:00,Main Campus,Computer Science,Administrative and Registration,Gym and sports facility issues,High,Resolved,Student Services,20,0.19,1,F,2023-11-27,November,Monday,16
+2024-03-23 11:00:00,South Campus,Computer Science,Health and Wellness,Limited recreational facilities,Medium,Resolved,Student Services,26,0.93,4,M,2024-03-23,March,Saturday,11
+2023-11-06 10:00:00,Main Campus,Computer Science,Technology and IT Support,Limited recreational facilities,Medium,In Progress,Student Services,21,1.62,3,M,2023-11-06,November,Monday,10
+2024-01-25 02:00:00,South Campus,Computer Science,Academic Support and Resources,Cafeteria food quality concerns,Low,Open,Student Services,24,3.02,1,F,2024-01-25,January,Thursday,2
+2024-01-28 15:00:00,South Campus,Sciences,Academic Support and Resources,Registration deadline conflicts,Low,Resolved,Registrar Office,17,3.06,3,M,2024-01-28,January,Sunday,15
+2024-01-24 03:00:00,South Campus,Computer Science,Technology and IT Support,Long wait times for health services,Critical,Resolved,Health Services,19,0.01,5,M,2024-01-24,January,Wednesday,3
+2023-11-14 00:00:00,North Campus,Liberal Arts,Health and Wellness,Insufficient parking on campus,High,In Progress,Student Services,23,2.2,3,M,2023-11-14,November,Tuesday,0
+2023-12-31 15:00:00,South Campus,Business,Technology and IT Support,Campus safety concerns,Critical,Resolved,Health Services,16,2.83,1,F,2023-12-31,December,Sunday,15
+2023-10-13 22:00:00,Main Campus,Liberal Arts,Technology and IT Support,Insufficient parking on campus,High,Resolved,Student Services,22,2.97,3,M,2023-10-13,October,Friday,22
+2024-04-28 10:00:00,North Campus,Sciences,Technology and IT Support,Insufficient tutoring and academic support,High,Resolved,Academic Affairs,26,0.21,1,F,2024-04-28,April,Sunday,10
+2023-11-17 16:00:00,Main Campus,Engineering,Library and Learning Resources,Online learning platform issues,High,Closed,IT Department,19,1.36,4,F,2023-11-17,November,Friday,16
+2024-03-21 20:00:00,South Campus,Engineering,Administrative and Registration,Interlibrary loan process slow,Medium,Resolved,Library Services,21,3.91,2,F,2024-03-21,March,Thursday,20
+2023-09-17 22:00:00,South Campus,Liberal Arts,Administrative and Registration,Study area conditions poor,Low,Resolved,Library Services,21,2.05,4,M,2023-09-17,September,Sunday,22
+2024-03-04 14:00:00,South Campus,Sciences,Administrative and Registration,Unclear graduation requirements,Medium,Open,Registrar Office,18,2.24,4,M,2024-03-04,March,Monday,14
+2023-09-21 21:00:00,Main Campus,Business,Academic Support and Resources,Poor quality of online course materials,Low,Open,Academic Affairs,19,2.11,2,F,2023-09-21,September,Thursday,21
+2024-03-01 12:00:00,South Campus,Liberal Arts,Health and Wellness,Computer lab systems outdated,Low,In Progress,IT Department,22,2.99,5,M,2024-03-01,March,Friday,12
+2023-11-15 03:00:00,South Campus,Liberal Arts,Student Services and Facilities,Counseling services overcrowded,Low,Open,Health Services,18,1.43,5,M,2023-11-15,November,Wednesday,3
+2024-05-10 07:00:00,Main Campus,Business,Library and Learning Resources,Gym and sports facility issues,High,Resolved,Student Services,19,3.45,3,M,2024-05-10,May,Friday,7
+2024-04-16 21:00:00,North Campus,Engineering,Health and Wellness,Campus facilities in poor condition,Low,Resolved,Student Services,20,2.28,2,F,2024-04-16,April,Tuesday,21
+2023-10-22 10:00:00,North Campus,Sciences,Health and Wellness,Medical services not open enough hours,Critical,Open,Health Services,21,3.51,3,M,2023-10-22,October,Sunday,10
+2023-08-31 23:00:00,South Campus,Business,Student Services and Facilities,Limited office hours for instructors,Medium,Resolved,Academic Affairs,22,3.05,5,M,2023-08-31,August,Thursday,23
+2023-09-05 22:00:00,Main Campus,Business,Academic Support and Resources,Wi-Fi connection unstable,Low,In Progress,IT Department,18,3.75,1,F,2023-09-05,September,Tuesday,22
+2023-11-30 17:00:00,Main Campus,Engineering,Academic Support and Resources,Registration deadline conflicts,Low,In Progress,Registrar Office,18,1.92,2,F,2023-11-30,November,Thursday,17
+2023-12-25 21:00:00,North Campus,Sciences,Administrative and Registration,Computer lab systems outdated,Low,In Progress,IT Department,17,1.04,5,M,2023-12-25,December,Monday,21
+2023-08-25 01:00:00,Main Campus,Business,Academic Support and Resources,Wi-Fi connection unstable,Low,In Progress,IT Department,22,1.93,5,M,2023-08-25,August,Friday,1
+2023-10-02 12:00:00,South Campus,Computer Science,Health and Wellness,Delayed transcript processing,Medium,In Progress,Registrar Office,19,2.0,1,F,2023-10-02,October,Monday,12
+2023-09-08 03:00:00,Main Campus,Sciences,Library and Learning Resources,Wi-Fi connection unstable,Low,Resolved,IT Department,16,0.39,5,M,2023-09-08,September,Friday,3
+2023-08-21 13:00:00,North Campus,Sciences,Library and Learning Resources,Long wait times for health services,Critical,Resolved,Health Services,21,1.36,1,F,2023-08-21,August,Monday,13
+2024-01-26 06:00:00,Main Campus,Computer Science,Health and Wellness,VPN connectivity issues,High,Closed,IT Department,27,2.35,1,F,2024-01-26,January,Friday,6
+2024-03-29 07:00:00,North Campus,Engineering,Academic Support and Resources,Struggling with course content difficulty,Low,Open,Academic Affairs,26,2.98,2,F,2024-03-29,March,Friday,7
+2024-02-14 16:00:00,Main Campus,Computer Science,Library and Learning Resources,Mental health support inadequate,Critical,Open,Health Services,17,1.82,1,F,2024-02-14,February,Wednesday,16
+2023-12-01 05:00:00,Main Campus,Computer Science,Library and Learning Resources,Limited book availability,Medium,Open,Library Services,22,3.4,5,M,2023-12-01,December,Friday,5
+2024-04-20 02:00:00,South Campus,Engineering,Academic Support and Resources,Online learning platform issues,High,Resolved,IT Department,19,0.01,4,M,2024-04-20,April,Saturday,2
+2023-08-28 14:00:00,South Campus,Business,Technology and IT Support,Medical services not open enough hours,Critical,Open,Health Services,23,2.31,4,M,2023-08-28,August,Monday,14
+2023-11-15 15:00:00,North Campus,Engineering,Student Services and Facilities,Need for better academic counseling services,Low,Resolved,Academic Affairs,24,2.69,1,F,2023-11-15,November,Wednesday,15
+2023-10-17 23:00:00,North Campus,Business,Technology and IT Support,Dormitory maintenance issues,High,Resolved,Student Services,19,1.82,4,M,2023-10-17,October,Tuesday,23
+2023-10-05 06:00:00,North Campus,Computer Science,Library and Learning Resources,Difficulty finding required course materials,Low,Resolved,Academic Affairs,20,3.2,4,M,2023-10-05,October,Thursday,6
+2024-02-03 23:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Need for more study spaces,Low,Resolved,Student Services,17,2.77,2,F,2024-02-03,February,Saturday,23
+2024-05-05 18:00:00,North Campus,Business,Library and Learning Resources,Registration deadline conflicts,Low,In Progress,Registrar Office,25,2.06,3,M,2024-05-05,May,Sunday,18
+2023-08-31 23:00:00,South Campus,Liberal Arts,Health and Wellness,Unclear graduation requirements,Medium,In Progress,Registrar Office,20,2.14,1,F,2023-08-31,August,Thursday,23
+2024-03-09 06:00:00,South Campus,Liberal Arts,Library and Learning Resources,Financial aid processing delays,Low,In Progress,Registrar Office,22,1.53,3,M,2024-03-09,March,Saturday,6
+2023-12-10 17:00:00,South Campus,Engineering,Administrative and Registration,Need for better academic counseling services,Low,Resolved,Academic Affairs,19,1.28,1,F,2023-12-10,December,Sunday,17
+2023-08-21 21:00:00,South Campus,Business,Library and Learning Resources,Insufficient tutoring and academic support,High,In Progress,Academic Affairs,25,2.18,1,F,2023-08-21,August,Monday,21
+2024-01-22 03:00:00,South Campus,Liberal Arts,Academic Support and Resources,Struggling with course content difficulty,Low,Open,Academic Affairs,18,4.68,1,F,2024-01-22,January,Monday,3
+2024-05-03 11:00:00,Main Campus,Computer Science,Student Services and Facilities,Limited office hours for instructors,Medium,Closed,Academic Affairs,16,2.01,1,F,2024-05-03,May,Friday,11
+2024-01-23 02:00:00,South Campus,Sciences,Academic Support and Resources,VPN connectivity issues,High,Open,IT Department,21,2.06,2,F,2024-01-23,January,Tuesday,2
+2024-04-13 13:00:00,Main Campus,Liberal Arts,Library and Learning Resources,Database access limited,Medium,Resolved,Library Services,16,3.62,3,M,2024-04-13,April,Saturday,13
+2024-05-07 10:00:00,North Campus,Business,Technology and IT Support,Study area conditions poor,Low,Resolved,Library Services,21,2.61,5,M,2024-05-07,May,Tuesday,10
+2023-12-09 02:00:00,Main Campus,Business,Library and Learning Resources,Course registration system difficulties,Low,In Progress,Registrar Office,19,1.8,5,M,2023-12-09,December,Saturday,2
+2023-12-02 14:00:00,Main Campus,Sciences,Library and Learning Resources,Cafeteria food quality concerns,Low,Open,Student Services,17,1.19,3,M,2023-12-02,December,Saturday,14
+2024-03-20 23:00:00,South Campus,Computer Science,Academic Support and Resources,Need for better academic counseling services,Low,Open,Academic Affairs,20,2.86,1,F,2024-03-20,March,Wednesday,23
+2024-01-25 05:00:00,Main Campus,Liberal Arts,Student Services and Facilities,Email and portal access problems,Low,Resolved,IT Department,19,3.3,1,F,2024-01-25,January,Thursday,5
+2024-05-14 09:00:00,South Campus,Liberal Arts,Academic Support and Resources,Gym and sports facility issues,High,Resolved,Student Services,17,0.07,1,F,2024-05-14,May,Tuesday,9
+2024-01-22 05:00:00,North Campus,Business,Academic Support and Resources,Unclear graduation requirements,Medium,Resolved,Registrar Office,21,3.25,1,F,2024-01-22,January,Monday,5
+2024-04-30 04:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Struggling with course content difficulty,Low,Closed,Academic Affairs,24,3.12,1,F,2024-04-30,April,Tuesday,4
+2024-03-30 13:00:00,South Campus,Sciences,Administrative and Registration,Technical support response time slow,Medium,Resolved,IT Department,26,3.45,3,M,2024-03-30,March,Saturday,13
+2023-11-16 20:00:00,North Campus,Sciences,Student Services and Facilities,Registration deadline conflicts,Low,In Progress,Registrar Office,25,2.17,4,M,2023-11-16,November,Thursday,20
+2024-03-04 22:00:00,Main Campus,Computer Science,Academic Support and Resources,Need for more study spaces,Low,In Progress,Student Services,23,3.62,5,M,2024-03-04,March,Monday,22
+2024-03-22 14:00:00,Main Campus,Liberal Arts,Academic Support and Resources,Gym and sports facility issues,High,Resolved,Student Services,25,0.77,5,M,2024-03-22,March,Friday,14
+2024-02-13 16:00:00,Main Campus,Engineering,Academic Support and Resources,Online learning platform issues,High,In Progress,IT Department,21,1.83,5,M,2024-02-13,February,Tuesday,16
+2024-03-24 10:00:00,South Campus,Engineering,Library and Learning Resources,Insufficient tutoring and academic support,High,Open,Academic Affairs,21,2.16,2,F,2024-03-24,March,Sunday,10
+2024-02-29 09:00:00,Main Campus,Liberal Arts,Technology and IT Support,Mental health support inadequate,Critical,Resolved,Health Services,16,3.25,2,F,2024-02-29,February,Thursday,9
+2024-03-05 04:00:00,South Campus,Liberal Arts,Library and Learning Resources,Online learning platform issues,High,Resolved,IT Department,21,2.98,5,M,2024-03-05,March,Tuesday,4
+2023-10-16 13:00:00,South Campus,Computer Science,Administrative and Registration,Technical support response time slow,Medium,Closed,IT Department,20,2.95,3,M,2023-10-16,October,Monday,13
+2023-10-11 05:00:00,Main Campus,Sciences,Student Services and Facilities,Limited recreational facilities,Medium,Resolved,Student Services,19,3.51,1,F,2023-10-11,October,Wednesday,5
+2024-02-23 09:00:00,North Campus,Business,Technology and IT Support,Course registration system difficulties,Low,Open,Registrar Office,19,1.26,1,F,2024-02-23,February,Friday,9
+2024-03-30 03:00:00,South Campus,Liberal Arts,Student Services and Facilities,Database access limited,Medium,Closed,Library Services,23,1.91,1,F,2024-03-30,March,Saturday,3
+2023-11-26 09:00:00,South Campus,Computer Science,Student Services and Facilities,Computer lab systems outdated,Low,In Progress,IT Department,18,0.2,4,M,2023-11-26,November,Sunday,9
+2023-12-03 02:00:00,Main Campus,Sciences,Academic Support and Resources,Unclear graduation requirements,Medium,In Progress,Registrar Office,16,3.07,5,M,2023-12-03,December,Sunday,2
+2023-10-07 15:00:00,North Campus,Liberal Arts,Academic Support and Resources,Confusion with degree requirements,Low,Resolved,Registrar Office,22,4.18,2,F,2023-10-07,October,Saturday,15
+2024-04-04 11:00:00,South Campus,Computer Science,Student Services and Facilities,Inadequate access to lab resources,Low,Open,Academic Affairs,18,1.96,3,M,2024-04-04,April,Thursday,11
+2023-11-10 18:00:00,Main Campus,Engineering,Student Services and Facilities,Poor quality of online course materials,Low,Resolved,Academic Affairs,19,3.05,4,M,2023-11-10,November,Friday,18
+2023-11-12 19:00:00,Main Campus,Business,Health and Wellness,Library hours insufficient,High,Open,Library Services,20,1.52,4,M,2023-11-12,November,Sunday,19
+2023-09-21 20:00:00,South Campus,Engineering,Academic Support and Resources,Difficulty finding required course materials,Low,Resolved,Academic Affairs,22,3.53,2,F,2023-09-21,September,Thursday,20
+2024-01-25 07:00:00,North Campus,Computer Science,Academic Support and Resources,Unclear graduation requirements,Medium,In Progress,Registrar Office,19,4.97,2,F,2024-01-25,January,Thursday,7
+2023-10-22 04:00:00,Main Campus,Sciences,Technology and IT Support,Gym and sports facility issues,High,Resolved,Student Services,24,3.0,2,F,2023-10-22,October,Sunday,4
+2024-02-07 10:00:00,South Campus,Sciences,Academic Support and Resources,Gym and sports facility issues,High,Resolved,Student Services,18,1.34,1,F,2024-02-07,February,Wednesday,10
+2024-02-24 14:00:00,South Campus,Computer Science,Student Services and Facilities,Limited office hours for instructors,Medium,In Progress,Academic Affairs,16,1.72,5,M,2024-02-24,February,Saturday,14
+2023-11-08 00:00:00,North Campus,Business,Library and Learning Resources,Financial aid processing delays,Low,In Progress,Registrar Office,19,1.12,4,M,2023-11-08,November,Wednesday,0
+2024-02-07 21:00:00,South Campus,Engineering,Academic Support and Resources,Limited office hours for instructors,Medium,In Progress,Academic Affairs,24,4.06,4,M,2024-02-07,February,Wednesday,21
+2023-10-08 14:00:00,Main Campus,Engineering,Academic Support and Resources,Cafeteria food quality concerns,Low,In Progress,Student Services,18,0.01,4,M,2023-10-08,October,Sunday,14
+2024-01-02 12:00:00,Main Campus,Engineering,Administrative and Registration,Admission process was unclear,Medium,Resolved,Registrar Office,18,3.62,2,F,2024-01-02,January,Tuesday,12
+2023-10-06 00:00:00,North Campus,Sciences,Student Services and Facilities,Limited access to research databases and materials,Medium,Resolved,Academic Affairs,22,2.79,2,F,2023-10-06,October,Friday,0
+2023-09-17 18:00:00,North Campus,Business,Health and Wellness,Financial aid processing delays,Low,In Progress,Registrar Office,20,3.93,4,M,2023-09-17,September,Sunday,18
+2023-12-23 15:00:00,South Campus,Computer Science,Technology and IT Support,Limited book availability,Medium,In Progress,Library Services,21,1.67,1,F,2023-12-23,December,Saturday,15
+2024-04-10 18:00:00,North Campus,Liberal Arts,Academic Support and Resources,Dormitory maintenance issues,High,Open,Student Services,19,1.78,1,F,2024-04-10,April,Wednesday,18
+2023-12-07 19:00:00,North Campus,Computer Science,Health and Wellness,Limited office hours for instructors,Medium,Resolved,Academic Affairs,20,3.22,2,F,2023-12-07,December,Thursday,19
+2023-08-27 11:00:00,North Campus,Sciences,Administrative and Registration,Need for more study spaces,Low,Open,Student Services,18,2.81,1,F,2023-08-27,August,Sunday,11
+2024-04-02 12:00:00,Main Campus,Computer Science,Academic Support and Resources,Struggling with course content difficulty,Low,Closed,Academic Affairs,21,0.96,5,M,2024-04-02,April,Tuesday,12
+2024-01-03 11:00:00,North Campus,Computer Science,Health and Wellness,Dormitory maintenance issues,High,Resolved,Student Services,22,2.98,1,F,2024-01-03,January,Wednesday,11
+2023-12-10 03:00:00,Main Campus,Sciences,Student Services and Facilities,Email and portal access problems,Low,In Progress,IT Department,23,1.02,2,F,2023-12-10,December,Sunday,3
+2023-09-24 00:00:00,South Campus,Business,Administrative and Registration,Email and portal access problems,Low,Resolved,IT Department,18,1.07,4,M,2023-09-24,September,Sunday,0
+2023-09-17 19:00:00,North Campus,Sciences,Academic Support and Resources,Limited recreational facilities,Medium,Closed,Student Services,21,2.91,5,M,2023-09-17,September,Sunday,19
+2023-10-11 07:00:00,Main Campus,Sciences,Administrative and Registration,Limited office hours for instructors,Medium,Resolved,Academic Affairs,17,1.62,3,M,2023-10-11,October,Wednesday,7
+2023-09-30 00:00:00,North Campus,Business,Student Services and Facilities,Limited access to research databases and materials,Medium,In Progress,Academic Affairs,20,1.02,3,M,2023-09-30,September,Saturday,0
+2023-08-29 00:00:00,North Campus,Business,Technology and IT Support,Email and portal access problems,Low,In Progress,IT Department,16,0.35,1,F,2023-08-29,August,Tuesday,0
+2024-03-10 20:00:00,North Campus,Computer Science,Academic Support and Resources,Insufficient parking on campus,High,Resolved,Student Services,20,1.01,5,M,2024-03-10,March,Sunday,20
+2024-01-20 03:00:00,Main Campus,Business,Administrative and Registration,Interlibrary loan process slow,Medium,Resolved,Library Services,19,3.2,1,F,2024-01-20,January,Saturday,3
+2024-03-15 18:00:00,South Campus,Business,Administrative and Registration,Study area conditions poor,Low,Resolved,Library Services,22,0.98,1,F,2024-03-15,March,Friday,18
+2023-11-27 21:00:00,North Campus,Computer Science,Technology and IT Support,Struggling with course content difficulty,Low,Resolved,Academic Affairs,17,0.01,1,F,2023-11-27,November,Monday,21
+2023-11-05 04:00:00,North Campus,Business,Health and Wellness,Mental health support inadequate,Critical,Resolved,Health Services,21,3.38,3,M,2023-11-05,November,Sunday,4

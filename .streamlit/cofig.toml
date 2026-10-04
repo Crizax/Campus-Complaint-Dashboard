@@ -1,0 +1,14 @@
+[theme]
+# Set the main background and text colors
+base="light"
+primaryColor="#2563eb"
+backgroundColor = "#f8fafc" # A very soft, modern gray-white
+secondaryBackgroundColor = "#ffffff" # Clean white for sidebars and cards
+textColor = "#1e293b" # Dark slate for better readability than pure black
+
+# Upgrade the default font
+font = "sans serif"
+
+[client]
+# Removes the default "Hamburger" menu in the top right for a cleaner app look
+toolbarMode = "minimal"
